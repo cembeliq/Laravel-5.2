@@ -1,0 +1,5383 @@
+1,	Abang,32000
+1,	Abiansemal,32000
+1,	Amlapura,25000
+1,	Bangli,25000
+1,	Banjar,32000
+1,	Banjarangkan,32000
+1,	Baturiti,32000
+1,	Bebandem,32000
+1,	Blahbatuh,32000
+1,	Buleleng,32000
+1,	Busungbiu,32000
+1,	Dawan,32000
+1,	Denpasar Barat,18000
+1,	Denpasar Selatan,18000
+1,	Denpasar Timur,18000
+1,	Denpasar,18000
+1,	Gianyar,25000
+1,	Grokgak,32000
+1,	Jimbaran,18000
+1,	Karangasem,25000
+1,	Kediri,32000
+1,	Kerambilan,32000
+1,	Kintamani,32000
+1,	Klungkung,25000
+1,	Kubu,32000
+1,	Kubutambahan,32000
+1,	Kuta ,18000
+1,	Legian,18000
+1,	Manggis,32000
+1,	Marga,32000
+1,	Melaya,32000
+1,	Mendoyo,32000
+1,	Menguwi,25000
+1,	Negara,25000
+1,	Ngurahrai,18000
+1,	Nusa Dua,18000
+1,	Nusapenida,32000
+1,	Papuan,32000
+1,	Payangan,32000
+1,	Pekutatan,32000
+1,	Penebel,32000
+1,	Petang,32000
+1,	Rendang,32000
+1,	Sanur,18000
+1,	Sawan,32000
+1,	Selat,32000
+1,	Selemadeg Barat,32000
+1,	Selemadeg Timur,32000
+1,	Selemadeg,32000
+1,	Semarapura,25000
+1,	Seririt,32000
+1,	Sidemen,32000
+1,	Singaraja,25000
+1,	Sukasada,32000
+1,	Sukawati,32000
+1,	Susut,32000
+1,	Tabanan,25000
+1,	Tegallalang,32000
+1,	Tejakula,32000
+1,	Tembuku,32000
+1,	Ubud,32000
+2,	Air Gegas,39000
+2,	Badau,38000
+2,	Bakam,39000
+2,	Belinyu,31000
+2,	Bukit Intan,22000
+2,	Dendang,38000
+2,	Gantung,38000
+2,	Gerunggang,22000
+2,	Jebus,31000
+2,	Kelapa Kampit,38000
+2,	Kelapa,31000
+2,	Koba,31000
+2,	Lepar Pongok,39000
+2,	Manggar,30000
+2,	Membalong,38000
+2,	Mendo Barat,39000
+2,	Mentok,31000
+2,	Merawang,39000
+2,	Pangkal Balam,22000
+2,	Pangkalan Baru,39000
+2,	Pangkalpinang,22000
+2,	Payung,39000
+2,	Pemali,39000
+2,	Puding Besar,39000
+2,	Rangkui,22000
+2,	Riau Silip,39000
+2,	Selat Nasik,38000
+2,	Sijuk,38000
+2,	Simpang Katis,39000
+2,	Simpang Rima,39000
+2,	Simpang Teritip,39000
+2,	Sungai Selan,39000
+2,	Sungailiat,31000
+2,	Tanjungpandan,22000
+2,	Tempilang,39000
+2,	Toboali,31000
+3,	Angsana,15000
+3,	Anyar,12000
+3,	Balaraja,10000
+3,	Banjar,15000
+3,	Banjarsari,15000
+3,	Baros,12000
+3,	Batuceper ,10000
+3,	Bayah,15000
+3,	Benda,10000
+3,	Binuang,15000
+3,	Bojonegara,15000
+3,	Bojong,15000
+3,	Bojongmanik,15000
+3,	Cadasari,15000
+3,	Carenang,15000
+3,	Carita,15000
+3,	Cibadak,15000
+3,	Cibaliung,15000
+3,	Cibeber,11000
+3,	Cibeber,15000
+3,	Cibitung,15000
+3,	Cibodas ,10000
+3,	Cigeulis,15000
+3,	Cijaku,15000
+3,	Cikande,15000
+3,	Cikedal,15000
+3,	Cikeusal,15000
+3,	Cikeusik,15000
+3,	Cikulur,15000
+3,	Cikupa,10000
+3,	Ciledug,10000
+3,	Cilegon,11000
+3,	Cileles,15000
+3,	Cimanggu,15000
+3,	Cimanuk,15000
+3,	Cimarga,15000
+3,	Cinangka,15000
+3,	Ciomas,15000
+3,	Cipanas,15000
+3,	Cipeucang,15000
+3,	Cipocok Jaya ,11000
+3,	Cipondoh ,10000
+3,	Ciputat ,10000
+3,	Ciruas,15000
+3,	Cisata,15000
+3,	Cisauk,10000
+3,	Cisoka,10000
+3,	Citangkil,11000
+3,	Ciwandan,11000
+3,	Curug,10000
+3,	Curug,11000
+3,	Curugbitung ,15000
+3,	Gerogol,11000
+3,	Gunung Kencana,15000
+3,	Jambe,10000
+3,	Jatiuwung ,10000
+3,	Jawilan,15000
+3,	Jayanti ,10000
+3,	Jiput,15000
+3,	Jombang,11000
+3,	Kaduhejo,15000
+3,	Karangtanjung,15000
+3,	Karangtengah ,10000
+3,	Karawaci ,10000
+3,	Kasemen,11000
+3,	Kemiri ,10000
+3,	Kibin,15000
+3,	Kopo,15000
+3,	Kosambi / Selembaran Jati,10000
+3,	Kragilan,15000
+3,	Kramatwatu,15000
+3,	Kresek,10000
+3,	Kronjo,10000
+3,	Labuan,15000
+3,	Larangan ,10000
+3,	Legok,10000
+3,	Leuwidamar,15000
+3,	Maja,15000
+3,	Malingping,15000
+3,	Mancak,15000
+3,	Mandalawangi,15000
+3,	Mauk,10000
+3,	Menes,15000
+3,	Merak,11000
+3,	Muncang,15000
+3,	Munjul,15000
+3,	Neglasari ,10000
+3,	Pabuaran,15000
+3,	Padarincang,15000
+3,	Pagedangan,10000
+3,	Pagelaran,15000
+3,	Pakuhaji,10000
+3,	Pamarayan,15000
+3,	Pamulang,10000
+3,	Pandeglang,12000
+3,	Panggarangan,15000
+3,	Panimbang,15000
+3,	Panongan,10000
+3,	Pasar Kemis,10000
+3,	Patia,15000
+3,	Periuk ,10000
+3,	Petir,15000
+3,	Picung,15000
+3,	Pinang ,10000
+3,	Pondokaren / Jurang Mangu,10000
+3,	Pontang,15000
+3,	Puloampel,15000
+3,	Purwakarta,11000
+3,	Rajeg,10000
+3,	Rangkasbitung,12000
+3,	Sajira,15000
+3,	Saketi,15000
+3,	Sepatan / Jatmulya,10000
+3,	Serang,11000
+3,	Serpong,10000
+3,	Sobang ,15000
+3,	Sukadiri,10000
+3,	Sukaresmi,15000
+3,	Sumur,15000
+3,	Taktakan,11000
+3,	Tangerang,10000
+3,	Tanjungteja,15000
+3,	Tarana,15000
+3,	Teluknaga,10000
+3,	Tigaraksa,10000
+3,	Tirtayasa,15000
+3,	Walantaka,11000
+3,	Wanasalam,15000
+3,	Waringinkurung,15000
+3,	Warung Gunung,15000
+4,	Air Besi,42000
+4,	Air Napal,42000
+4,	Air Periukan,42000
+4,	Argamakmur,33000
+4,	Batik Nau,42000
+4,	Bengkulu,21000
+4,	Bermani Ilir,42000
+4,	Bermani Ulu,42000
+4,	Curup,33000
+4,	Enggano,63000
+4,	Gading Cempaka,21000
+4,	Giri Mulyo,42000
+4,	Ilir Talo,42000
+4,	Kampung Melayu,21000
+4,	Karang Tinggi,42000
+4,	Kaur Selatan,33000
+4,	Kaur Tengah,33000
+4,	Kaur Utara,33000
+4,	Kaur,33000
+4,	Kedurang,42000
+4,	Kepahiang,33000
+4,	Kerkap,42000
+4,	Ketahun,42000
+4,	Kinal,42000
+4,	Kota Manna,33000
+4,	Kota Padang,42000
+4,	Lais,42000
+4,	Lebong Atas,33000
+4,	Lebong Selatan,33000
+4,	Lebong Utara,33000
+4,	Lebong,33000
+4,	Lebong.Teng,33000
+4,	Lubuk Sandi,42000
+4,	Maje,42000
+4,	Manna,42000
+4,	Muara Bangkahulu,21000
+4,	Muara Nasal,42000
+4,	Napal Putih,63000
+4,	Padang Jaya,42000
+4,	Padang Ulak Tanding,42000
+4,	Pagar Jati,42000
+4,	Pematang Tiga,42000
+4,	Pino,42000
+4,	Pinoraya,42000
+4,	Pondok Kelapa,42000
+4,	Putri Hijau,42000
+4,	Ratu Agung,21000
+4,	Ratu Samban,21000
+4,	Rimbo Pengadang,42000
+4,	Seginim,42000
+4,	Selebar,21000
+4,	Seluma Barat,42000
+4,	Seluma Selatan,42000
+4,	Seluma Timur,42000
+4,	Seluma Utara,42000
+4,	Seluma,42000
+4,	Selupu Rejang,42000
+4,	Semidang Alas Maras,42000
+4,	Semidang Alas,42000
+4,	Sindang Kelingi,42000
+4,	Sukaraja,42000
+4,	Sungai Serut,21000
+4,	Taba Penanjung,42000
+4,	Tais,33000
+4,	Talang Empat,42000
+4,	Talo,42000
+4,	Talokecil,42000
+4,	Tanjung Kemuning,42000
+4,	Tebat Karai,42000
+4,	Teluk Segara,21000
+4,	Ujan Mas,42000
+4,	Ulu Talo,42000
+5,	Bambanglipuro,25000
+5,	Banguntapan,25000
+5,	Bantul,14000
+5,	Berbah,25000
+5,	Cangkringan,25000
+5,	Danurejan,14000
+5,	Depok,25000
+5,	Dlingo,25000
+5,	Galur,25000
+5,	Gamping,25000
+5,	Gedangsari,25000
+5,	Gedongtengen,14000
+5,	Girimulyo,25000
+5,	Girisubo,25000
+5,	Godean,25000
+5,	Gondokusuman,14000
+5,	Gondomanan,14000
+5,	Imogiri,25000
+5,	Kalasan,25000
+5,	Kalibawang,25000
+5,	Karangmojo,25000
+5,	Kasihan,25000
+5,	Kokap,25000
+5,	Kotagede,14000
+5,	Kraton,14000
+5,	Kretek,25000
+5,	Lendah,25000
+5,	Mantrijeron,14000
+5,	Mergangsan,14000
+5,	Minggir,25000
+5,	Mlati,25000
+5,	Moyudan,25000
+5,	Nanggulan,25000
+5,	Ngaglik,25000
+5,	Ngampilan,14000
+5,	Ngawen,25000
+5,	Ngemplak,25000
+5,	Nglipar,25000
+5,	Pajangan,25000
+5,	Pakem,25000
+5,	Pakualaman,14000
+5,	Paliyan,25000
+5,	Pandak,25000
+5,	Panggang,25000
+5,	Panjatan,25000
+5,	Patuk,25000
+5,	Pengasih,25000
+5,	Piyungan,25000
+5,	Playen,25000
+5,	Pleret,25000
+5,	Ponjong,25000
+5,	Prambanan,14000
+5,	Pundong,25000
+5,	Purwosari,25000
+5,	Rongkop,25000
+5,	Samigaluh,25000
+5,	Sanden,25000
+5,	Saptosari,25000
+5,	Sedayu,25000
+5,	Semanu,25000
+5,	Semin,25000
+5,	Sentolo,25000
+5,	Sewon,25000
+5,	Seyegan,25000
+5,	Sleman,14000
+5,	Srandakan,25000
+5,	Tanjungsari,25000
+5,	Tegalrejo,14000
+5,	Temon,25000
+5,	Tempel,25000
+5,	Tepus,25000
+5,	Turi,25000
+5,	Umbulharjo,14000
+5,	Wates,20000
+5,	Wirobrajan,14000
+5,	Wonosari,20000
+5,	Yogyakarta,14000
+6,	Cakung,9000
+6,	Cempaka Putih,9000
+6,	Cengkareng,9000
+6,	Cilandak,9000
+6,	Cilincing,9000
+6,	Cipayung,9000
+6,	Ciracas,9000
+6,	Duren Sawit,9000
+6,	Gambir,9000
+6,	Grogol,9000
+6,	Jagakarsa,9000
+6,	Jakarta Barat,9000
+6,	Jakarta Pusat,9000
+6,	Jakarta Selatan,9000
+6,	Jakarta Timur,9000
+6,	Jakarta Utara,9000
+6,	Jakarta,9000
+6,	Jatinegara,9000
+6,	Johar Baru,9000
+6,	Kalideres,9000
+6,	Kebayoran Baru,9000
+6,	Kebayoran Lama,9000
+6,	Kebon Jeruk,9000
+6,	Kelapa Gading,9000
+6,	Kemayoran,9000
+6,	Kembangan,9000
+6,	Kep. Seribu Selatan,9000
+6,	Kep. Seribu Utara,9000
+6,	Koja,9000
+6,	Kramat Jati,9000
+6,	Makassar,9000
+6,	Mampang Prapatan,9000
+6,	Matraman,9000
+6,	Menteng,9000
+6,	Pademangan,9000
+6,	Palmerah,9000
+6,	Pancoran,9000
+6,	Pasar Minggu,9000
+6,	Pasar Rebo,9000
+6,	Penjaringan,9000
+6,	Pesanggrahan,9000
+6,	Pulau Pramuka,9000
+6,	Pulo Gadung,9000
+6,	Sawah Besar,9000
+6,	Senen,9000
+6,	Setiabudi,9000
+6,	Taman Sari,9000
+6,	Tambora,9000
+6,	Tanah Abang,9000
+6,	Tanjung Priok,9000
+6,	Tebet,9000
+7,	Anggrek, 77000
+7,	Anggrek, 77000
+7,	Atinggola, 77000 
+7,	Atinggota, 77000 
+7,	Batudaa, 77000 
+7,	Boliyohuto, 77000 
+7,	Bonepante, 77000 
+7,	Bongomeme, 77000 
+7,	Botumoito, 77000 
+7,	Dulupi, 77000 
+7,	Dungingi, 43000 
+7,	Gorontalo, 43000 
+7,	Kabila, 77000 
+7,	Kota Barat, 43000 
+7,	Kota Selatan, 43000 
+7,	Kota Timur, 43000 
+7,	Kota Utara, 43000 
+7,	Kwandang, 61000 
+7,	Lemito, 77000 
+7,	Limboto Barat, 61000 
+7,	Limboto, Kab. 61000 
+7,	Mananggu, 77000 
+7,	Marisa, Kab. 61000 
+7,	Mootilango, 77000 
+7,	Paguat, 77000 
+7,	Paguyaman, 77000 
+7,	Patilanggio, 77000 
+7,	Popayato, 77000 
+7,	Pulubala, 77000 
+7,	Randangan, 77000 
+7,	Sumalata, 77000 
+7,	Sumalata, 77000 
+7,	Suwawa, 61000 
+7,	Taluditi, 77000 
+7,	Tapa, 77000 
+7,	Telaga, 77000 
+7,	Tibawa, 77000 
+7,	Tilamuta, 61000 
+7,	Tolangohula, 77000 
+7,	Tolinggula, 77000 
+7,	Tolingula, 77000 
+7,	Wonosari, 77000 
+8,	Air Hangat Timur,52000
+8,	Air Hangat,52000
+8,	Bajubang,52000
+8,	Bangko,41000
+8,	Batang Asai,78000
+8,	Batang Merangin,52000
+8,	Bathin II Babeko,52000
+8,	Batin XXIV,52000
+8,	Betara,52000
+8,	Danau Kerinci,52000
+8,	Danau Teluk,18000
+8,	Dendang,52000
+8,	Gunung Kerinci,52000
+8,	Gunung Raya,78000
+8,	Hamparan Rawang,52000
+8,	Jambi Luar Kota,52000
+8,	Jambi Selatan,18000
+8,	Jambi Timur,18000
+8,	Jambi,18000
+8,	Jangkat,78000
+8,	Jelutung,18000
+8,	Jujuhan,78000
+8,	Kayuaro,78000
+8,	Keliling Danau,52000
+8,	Kota Baru,18000
+8,	Kualatungkal,41000
+8,	Kumpeh Ulu,52000
+8,	Kumpeh,52000
+8,	Limbur Lb Mengkuang,52000
+8,	Mandiangin,52000
+8,	Maro Sebo Ilir,52000
+8,	Marosebo Ulu,52000
+8,	Marosebo,52000
+8,	Mendahara,52000
+8,	Merlung,52000
+8,	Mersam,52000
+8,	Mestong,52000
+8,	Muara Limun,52000
+8,	Muara Sabak,41000
+8,	Muara Siau,52000
+8,	Muara Tebo,41000
+8,	Muarabulian,41000
+8,	Muarabungo,41000
+8,	Muaratembesi,52000
+8,	Muko Muko Batin VII,52000
+8,	Nipahpanjang,52000
+8,	Pamenang,52000
+8,	Pasar Jambi,18000
+8,	Pauh,52000
+8,	Pelawan Singkut,52000
+8,	Pelayangan,18000
+8,	Pelepat Ilir,52000
+8,	Pelepat,52000
+8,	Pemayung,52000
+8,	Pengabuan,52000
+8,	Rantau Pandan,52000
+8,	Rantaurasau,78000
+8,	Rimbo Bujang,52000
+8,	Rimbo Ilir,52000
+8,	Rimbo Ulu,52000
+8,	Sadu,52000
+8,	Sarolangun,41000
+8,	Sekernan,52000
+8,	Sengeti,41000
+8,	Sitinjau Laut,52000
+8,	Sumai,52000
+8,	Sungai Bahar,52000
+8,	Sungai Manau,78000
+8,	Sungaipenuh,41000
+8,	Tabir Ulu,52000
+8,	Tabir,52000
+8,	Tanah Sepenggal,52000
+8,	Tanah Tumbuh,52000
+8,	Tebo Ilir,41000
+8,	Tebo Tengah,41000
+8,	Tebo Ulu,41000
+8,	Telanaipura,18000
+8,	Tengah Ilir,52000
+8,	Tungkal Ilir,41000
+8,	Tungkal Ulu,41000
+8,	Vii Koto,52000
+9,	Agrabinta,19000
+9,	Andir,6000
+9,	Anjatan,20000
+9,	Arahan,20000
+9,	Arcamanik,6000
+9,	Argapura,20000
+9,	Arjasari,6000
+9,	Arjawinangun,20000
+9,	Astanaanyar,6000
+9,	Astanajapura,20000
+9,	Babakan Madang,10000
+9,	Babakan,20000
+9,	Babakancikao,10000
+9,	Babakanciparay,6000
+9,	Babelan,10000
+9,	Baleendah,6000
+9,	Balongan,20000
+9,	Baluburlimbangan,10000
+9,	Bandung Kidul,6000
+9,	Bandung Kulon,6000
+9,	Bandung Wetan,6000
+9,	Bandung,6000
+9,	Bangodua,20000
+9,	Banjar,8000
+9,	Banjaran,20000
+9,	Banjaran,6000
+9,	Banjarsari,10000
+9,	Banjarwangi,10000
+9,	Bantargadung,19000
+9,	Bantargebang,10000
+9,	Bantarkalong,10000
+9,	Bantarujeg,20000
+9,	Banyuresmi,10000
+9,	Banyusari,13000
+9,	Baregbeg,10000
+9,	Baros,10000
+9,	Batujajar,10000
+9,	Batujaya,13000
+9,	Batununggal,6000
+9,	Bayongbong,10000
+9,	Beber,20000
+9,	Beji,10000
+9,	Bekasi Barat,10000
+9,	Bekasi Selatan,10000
+9,	Bekasi Timur,10000
+9,	Bekasi Utara,10000
+9,	Bekasi,10000
+9,	Binong,10000
+9,	Blanakan,10000
+9,	Bogor Barat,10000
+9,	Bogor Selatan,10000
+9,	Bogor Tengah,10000
+9,	Bogor Timur,10000
+9,	Bogor Utara,10000
+9,	Bogor,10000
+9,	Bojong Soang,6000
+9,	Bojong,10000
+9,	Bojongasih,10000
+9,	Bojonggambir,10000
+9,	Bojonggede,10000
+9,	Bojonggenteng,19000
+9,	Bojongloa Kaler,6000
+9,	Bojongloa Kidul,6000
+9,	Bojongmanggu,10000
+9,	Bojongpicung,19000
+9,	Bongas,20000
+9,	Buahdua,10000
+9,	Bungbulang,10000
+9,	Bungursari,10000
+9,	Cabangbungin,10000
+9,	Campaka Mulya,19000
+9,	Campaka,10000
+9,	Campaka,19000
+9,	Cangkuang,6000
+9,	Cantigi,20000
+9,	Caringin,10000
+9,	Caringin,19000
+9,	Cariu,10000
+9,	Ciamis,8000
+9,	Ciampea,10000
+9,	Ciampel,10000
+9,	Cianjur,15000
+9,	Ciasem,10000
+9,	Ciawi Gebang,20000
+9,	Ciawi,10000
+9,	Cibadak,10000
+9,	Cibalong,10000
+9,	Cibarusah,10000
+9,	Cibatu,10000
+9,	Cibeber,19000
+9,	Cibeunying Kaler,6000
+9,	Cibeunying Kidul,6000
+9,	Cibeureum,10000
+9,	Cibeureum,20000
+9,	Cibeureum,8000
+9,	Cibingbin,20000
+9,	Cibinong,10000
+9,	Cibinong,19000
+9,	Cibiru,6000
+9,	Cibitung,10000
+9,	Cibitung,19000
+9,	Cibiuk,10000
+9,	Cibogo,10000
+9,	Cibuaya,13000
+9,	Cibubur,10000
+9,	Cibugel,10000
+9,	Cibung Bulang,10000
+9,	Cicadas,6000
+9,	Cicalengka,6000
+9,	Cicantayan,19000
+9,	Cicendo,6000
+9,	Cicurug,19000
+9,	Cidadap,19000
+9,	Cidadap,6000
+9,	Cidahu,19000
+9,	Cidahu,20000
+9,	Cidaun,19000
+9,	Cidolog,10000
+9,	Cidolog,19000
+9,	Ciemas,19000
+9,	Cigalontang,10000
+9,	Cigandamekar,20000
+9,	Cigasong,20000
+9,	Cigedug,10000
+9,	Cigombong,10000
+9,	Cigudeg,10000
+9,	Cigugur,10000
+9,	Cigugur,20000
+9,	Cihampelas,10000
+9,	Cihaurbeuti,10000
+9,	Cihideung,8000
+9,	Cihurip,10000
+9,	Cijambe,10000
+9,	Cijati,19000
+9,	Cijeruk,10000
+9,	Cijeungjing,10000
+9,	Cijulang,10000
+9,	Cikadu,19000
+9,	Cikajang,10000
+9,	Cikakak,19000
+9,	Cikalong Kulon,19000
+9,	Cikalong,10000
+9,	Cikalongwetan,10000
+9,	Cikampek,10000
+9,	Cikancung,6000
+9,	Cikarang Barat,10000
+9,	Cikarang Pusat,10000
+9,	Cikarang Selatan,10000
+9,	Cikarang Timur,10000
+9,	Cikarang Utara,10000
+9,	Cikarang,10000
+9,	Cikatomas,10000
+9,	Cikaum,10000
+9,	Cikedung,20000
+9,	Cikelet,10000
+9,	Cikembar,19000
+9,	Cikidang,19000
+9,	Cikijing,20000
+9,	Cikole,10000
+9,	Cikoneng,10000
+9,	Cilaku,19000
+9,	Cilamaya Wetan,13000
+9,	Cilamaya,13000
+9,	Cilawu,10000
+9,	Cilebak,20000
+9,	Cilebar,13000
+9,	Ciledug,20000
+9,	Cilengkrang,6000
+9,	Cileungsi,10000
+9,	Cileunyi,6000
+9,	Cililin,10000
+9,	Cilimus,20000
+9,	Cimahi Selatan,6000
+9,	Cimahi Tengah,6000
+9,	Cimahi Utara,6000
+9,	Cimahi,20000
+9,	Cimahi,6000
+9,	Cimalaka,10000
+9,	Cimanggis,10000
+9,	Cimanggung,10000
+9,	Cimaragas,10000
+9,	Cimareme,6000
+9,	Cimaung,6000
+9,	Cimenyan,6000
+9,	Cimerak,10000
+9,	Cineam,10000
+9,	Cingambul,20000
+9,	Ciniru,20000
+9,	Ciomas,10000
+9,	Cipaku,10000
+9,	Cipanas,19000
+9,	Ciparay,6000
+9,	Cipatat,10000
+9,	Cipatujah,10000
+9,	Cipedes,8000
+9,	Cipeundeuy,10000
+9,	Cipicung,20000
+9,	Cipongkor,10000
+9,	Cipunagara,10000
+9,	Ciracap,19000
+9,	Ciranjang,19000
+9,	Cirebon Barat,10000
+9,	Cirebon Selatan,20000
+9,	Cirebon Utara,10000
+9,	Cirebon,10000
+9,	Cireunghas,19000
+9,	Cisaat,10000
+9,	Cisaga,10000
+9,	Cisalak,10000
+9,	Cisarua,10000
+9,	Cisayong,10000
+9,	Ciseeng,10000
+9,	Cisewu,10000
+9,	Cisitu,10000
+9,	Cisolok,19000
+9,	Cisompet,10000
+9,	Cisurupan,10000
+9,	Citamiang,10000
+9,	Citeureup,10000
+9,	Ciwaringin,20000
+9,	Ciwaru,20000
+9,	Ciwidey,10000
+9,	Coblong,6000
+9,	Compreng,10000
+9,	Conggeang,10000
+9,	Cugenang,19000
+9,	Culamega,10000
+9,	Curugkembar,19000
+9,	Darangdan,10000
+9,	Darma,20000
+9,	Darmaraja,10000
+9,	Dawuan,20000
+9,	Dayeuhkolot,6000
+9,	Depok,10000
+9,	Depok,20000
+9,	Dramaga,10000
+9,	Dukupuntang,20000
+9,	Gabus Wetan,20000
+9,	Ganeas,10000
+9,	Gantar,20000
+9,	Garawangi,20000
+9,	Garut Kota,8000
+9,	Garut,8000
+9,	Gebang,20000
+9,	Gegerbitung,19000
+9,	Gegesik,20000
+9,	Gekbrong,19000
+9,	Gempol,20000
+9,	Gunung Putri,10000
+9,	Gunung Puyuh,10000
+9,	Gunung Sindur,10000
+9,	Gunung Tanjung,10000
+9,	Gunungguruh,19000
+9,	Gununghalu,10000
+9,	Hantara,20000
+9,	Harjamukti,10000
+9,	Haurgeulis,20000
+9,	Ibun,6000
+9,	Indihiang,8000
+9,	Indramayu,16000
+9,	Jalaksana,20000
+9,	Jalan Gagak,10000
+9,	Jamanis,10000
+9,	Jampang Kulon,19000
+9,	Jampang Tengah,19000
+9,	Japara,20000
+9,	Jasinga,10000
+9,	Jatiasih,10000
+9,	Jatibarang,16000
+9,	Jatigede,10000
+9,	Jatiluhur,10000
+9,	Jatinagara,10000
+9,	Jatinangor,6000
+9,	Jatinuggal,10000
+9,	Jatisampurna,10000
+9,	Jatisari,10000
+9,	Jatitujuh,20000
+9,	Jatiwangi,16000
+9,	Jatiwaras,10000
+9,	Jayakerta,13000
+9,	Jonggol,10000
+9,	Juntinyuat,20000
+9,	Kabandungan,19000
+9,	Kadipaten,10000
+9,	Kadipaten,16000
+9,	Kadudampit,19000
+9,	Kadugede,20000
+9,	Kadungora,10000
+9,	Kadupandak,19000
+9,	Kalapanunggal,19000
+9,	Kalibunder,19000
+9,	Kalijati,10000
+9,	Kalimanggis,20000
+9,	Kalipucang,10000
+9,	Kaliwedi,20000
+9,	Kandanghaur,20000
+9,	Kapetakan,20000
+9,	Karangampel,20000
+9,	Karangbahagia,10000
+9,	Karangjaya,10000
+9,	Karangkancana,20000
+9,	Karangnunggal,10000
+9,	Karangpawitan,10000
+9,	Karangsembung,20000
+9,	Karangtengah,10000
+9,	Karangtengah,19000
+9,	Karangwareng,20000
+9,	Karawang Barat,10000
+9,	Karawang Timur,10000
+9,	Karawang,10000
+9,	Katapang,6000
+9,	Kawali,10000
+9,	Kawalu,8000
+9,	Kebonpedes,19000
+9,	Kedawung,10000
+9,	Kedokan Bunder,20000
+9,	Kedungwaringin,10000
+9,	Kejaksan,10000
+9,	Kemang,10000
+9,	Kersamanah,10000
+9,	Kertajati,20000
+9,	Kertasari,6000
+9,	Kertasemaya,20000
+9,	Kesambi,10000
+9,	Kiaracondong,6000
+9,	Kiarapedes,10000
+9,	Klangenan,20000
+9,	Klapanunggal,10000
+9,	Klari,10000
+9,	Kotabaru,10000
+9,	Kramatmulya,20000
+9,	Krangkeng,20000
+9,	Kroya,20000
+9,	Kuningan,16000
+9,	Kutawaluya,13000
+9,	Lakbok,10000
+9,	Langensari,8000
+9,	Langkap Lancar,10000
+9,	Lebakwangi,20000
+9,	Legon Kulon,10000
+9,	Lelea,20000
+9,	Leles,10000
+9,	Leles,19000
+9,	Lemah Sugih,20000
+9,	Lemahabang Wadas,10000
+9,	Lemahabang,20000
+9,	Lemahwungkuk,10000
+9,	Lembang,6000
+9,	Lembur Situ,10000
+9,	Lengkong,19000
+9,	Lengkong,6000
+9,	Leuwigoong,10000
+9,	Leuwiliang,10000
+9,	Leuwimunding,20000
+9,	Leuwisadeng,10000
+9,	Leuwisari,10000
+9,	Ligung,20000
+9,	Limo,10000
+9,	Lohbener,20000
+9,	Losarang,20000
+9,	Losari,16000
+9,	Lumbung,10000
+9,	Luragung,20000
+9,	Maja,20000
+9,	Majalaya,10000
+9,	Majalaya,8000
+9,	Majalengka,16000
+9,	Malangbong,10000
+9,	Maleber,20000
+9,	Mande,19000
+9,	Mandirancan,20000
+9,	Mangkubumi,8000
+9,	Mangunjaya,10000
+9,	Mangunreja,10000
+9,	Maniis,10000
+9,	Manonjaya,10000
+9,	Margaasih,10000
+9,	Margacinta,6000
+9,	Margahayu,6000
+9,	Medan Satria,10000
+9,	Megamendung,10000
+9,	Mekarmukti,10000
+9,	Muaragembong,10000
+9,	Mundu,10000
+9,	Mustika Jaya,10000
+9,	Nagrak,19000
+9,	Nagreg,10000
+9,	Nanggung,10000
+9,	Naringgul,19000
+9,	Ngamprah,6000
+9,	Nusaherang,20000
+9,	Nyalindung,19000
+9,	Pabedilan,20000
+9,	Pabuaran,10000
+9,	Pabuaran,19000
+9,	Pabuaran,20000
+9,	Pacet,10000
+9,	Pacet,19000
+9,	Padaherang,10000
+9,	Padakembang,10000
+9,	Padalarang,10000
+9,	Pagaden,10000
+9,	Pagelaran,19000
+9,	Pagerageung,10000
+9,	Pakenjeng,10000
+9,	Pakisjaya,13000
+9,	Palasah,20000
+9,	Palimanan,16000
+9,	Pamanukan,10000
+9,	Pamarican,10000
+9,	Pameungpeuk,10000
+9,	Pameungpeuk,6000
+9,	Pamijahan,10000
+9,	Pamulihan,10000
+9,	Panawangan,10000
+9,	Pancalang,20000
+9,	Pancatengah,10000
+9,	Pancoranmas,10000
+9,	Pangalengan,10000
+9,	Pangandaran,10000
+9,	Pangenan,20000
+9,	Pangkalan,13000
+9,	Panguragan,20000
+9,	Panjalu,10000
+9,	Panumbangan,10000
+9,	Panyingkiran,20000
+9,	Parakansalak,19000
+9,	Parigi,10000
+9,	Parongpong,10000
+9,	Parung,10000
+9,	Parungkuda,19000
+9,	Parungpanjang,10000
+9,	Parungponteng,10000
+9,	Pasaleman,20000
+9,	Pasawahan,10000
+9,	Pasawahan,20000
+9,	Paseh,10000
+9,	Pasirjambu,10000
+9,	Pasirwangi,10000
+9,	Pataruman,8000
+9,	Patokbeusi,10000
+9,	Pebayuran,10000
+9,	Pedes,13000
+9,	Pekalipan,10000
+9,	Pelabuhanratu,15000
+9,	Pengatikan,10000
+9,	Peundeuy,10000
+9,	Plered,10000
+9,	Plered,10000
+9,	Plumbon,20000
+9,	Pondok Melati,10000
+9,	Pondokgede,10000
+9,	Pondoksalam,10000
+9,	Purabaya,19000
+9,	Purwadadi,10000
+9,	Purwaharja,8000
+9,	Purwakarta,8000
+9,	Purwasari,10000
+9,	Pusakanagara,10000
+9,	Puspahiang,10000
+9,	Rajadesa,10000
+9,	Rajagaluh,20000
+9,	Rajapolah,10000
+9,	Ranca Bungur,10000
+9,	Rancabali,10000
+9,	Rancaekek,6000
+9,	Rancah,10000
+9,	Rancakalong,10000
+9,	Rancasari,6000
+9,	Rawalumbu,10000
+9,	Rawamerta,10000
+9,	Regol,6000
+9,	Rengasdengklok,10000
+9,	Rongga,10000
+9,	Rumpin,10000
+9,	Sadananya,10000
+9,	Sagalaherang,10000
+9,	Sagaranten,19000
+9,	Salawu,10000
+9,	Salopa,10000
+9,	Samarang,10000
+9,	Sariwangi,10000
+9,	Sawangan,10000
+9,	Sedong,20000
+9,	Selaawi,10000
+9,	Selajambe,20000
+9,	Serang Baru,10000
+9,	Setu,10000
+9,	Sidamulih,10000
+9,	Simpenan,19000
+9,	Sindang,20000
+9,	Sindangagung,20000
+9,	Sindangbarang,19000
+9,	Sindangkasih,10000
+9,	Sindangkerta,10000
+9,	Sindangwangi,20000
+9,	Singajaya,10000
+9,	Singaparna,8000
+9,	Situraja,10000
+9,	Sliyeg,20000
+9,	Sodonghilir,10000
+9,	Solokan Jeruk,6000
+9,	Soreang,6000
+9,	Subang,20000
+9,	Subang,8000
+9,	Sucinaraja,10000
+9,	Sukabumi,10000
+9,	Sukadana,10000
+9,	Sukagumiwang,20000
+9,	Sukahaji,20000
+9,	Sukahening,10000
+9,	Sukajadi,6000
+9,	Sukajaya,10000
+9,	Sukakarya,10000
+9,	Sukalarang,19000
+9,	Sukaluyu,19000
+9,	Sukamakmur,10000
+9,	Sukanegara,19000
+9,	Sukaraja,10000
+9,	Sukarame,10000
+9,	Sukaratu,10000
+9,	Sukaresik,10000
+9,	Sukaresmi,10000
+9,	Sukaresmi,19000
+9,	Sukasari,10000
+9,	Sukasari,6000
+9,	Sukatani,10000
+9,	Sukawangi,10000
+9,	Sukawening,10000
+9,	Sukmajaya,10000
+9,	Sukra,20000
+9,	Sumber Jaya,20000
+9,	Sumber,16000
+9,	Sumedang Selatan,8000
+9,	Sumedang Utara,8000
+9,	Sumedang,8000
+9,	Sumurbandung,6000
+9,	Surade,19000
+9,	Surian,10000
+9,	Susukan Lebak,20000
+9,	Susukan,20000
+9,	Tajurhalang,10000
+9,	Takokak,19000
+9,	Talaga,20000
+9,	Talagasari,10000
+9,	Talegong,10000
+9,	Tamansari,10000
+9,	Tamansari,8000
+9,	Tambak Sari,10000
+9,	Tambelang,10000
+9,	Tambun Selatan,10000
+9,	Tambun Utara,10000
+9,	Tanah Sereal,10000
+9,	Tanggeung,19000
+9,	Tanjungjaya,10000
+9,	Tanjungkerta,10000
+9,	Tanjungmedar,10000
+9,	Tanjungsari,10000
+9,	Tanjungsiang,10000
+9,	Taraju,10000
+9,	Tarogong Kaler,10000
+9,	Tarogong Kidul,10000
+9,	Tarumajaya,10000
+9,	Tasikmalaya,8000
+9,	Tawang,8000
+9,	Tegalbuleud,19000
+9,	Tegalwaru,10000
+9,	Tegalwaru,13000
+9,	Teluk Jambe Barat,10000
+9,	Teluk Jambe Timur,10000
+9,	Tempuran,13000
+9,	Tengah Tani,10000
+9,	Tenjo,10000
+9,	Tenjolaya,10000
+9,	Tirtajaya,13000
+9,	Tirtamulya,10000
+9,	Tomo,10000
+9,	Trisi,20000
+9,	Ujungberung,6000
+9,	Ujungjaya,10000
+9,	Wado,10000
+9,	Waled,20000
+9,	Waluran,19000
+9,	Wanaraja,10000
+9,	Wanayasa,10000
+9,	Warudoyong,10000
+9,	Warungkiara,19000
+9,	Warungkondang,19000
+9,	Weru,20000
+9,	Widasari,20000
+10,	Adimulyo,27000
+10,	Adipala,22000
+10,	Adiwerna,25000
+10,	Ajibarang,20000
+10,	Aliyan,27000
+10,	Ambal,27000
+10,	Ambarawa,20000
+10,	Ampel,25000
+10,	Ampelgading,25000
+10,	Andong,25000
+10,	Argomulyo,20000
+10,	Ayah,27000
+10,	Bae,25000
+10,	Bagelen,27000
+10,	Baki,25000
+10,	Balapulang,25000
+10,	Balen,25000
+10,	Bancak,25000
+10,	Bandar,25000
+10,	Bandongan,27000
+10,	Bangsri,25000
+10,	Banjarejo,25000
+10,	Banjarharjo,25000
+10,	Banjarmangu,25000
+10,	Banjarnegara,20000
+10,	Banjarsari,14000
+10,	Bansari,27000
+10,	Bantarbolang,25000
+10,	Bantarkawung,25000
+10,	Bantasari,22000
+10,	Banyubiru,25000
+10,	Banyudono,25000
+10,	Banyumanik,14000
+10,	Banyumas,20000
+10,	Banyuputih,25000
+10,	Banyuurip,27000
+10,	Batang,20000
+10,	Batangan,25000
+10,	Batealit,25000
+10,	Batur,25000
+10,	Baturaden,25000
+10,	Baturetno,25000
+10,	Batuwarno,25000
+10,	Baureno,25000
+10,	Bawang,25000
+10,	Bawen,25000
+10,	Bayan,27000
+10,	Bayat,25000
+10,	Bejen,27000
+10,	Belik,25000
+10,	Bendosari,25000
+10,	Bener,27000
+10,	Bergas,25000
+10,	Binangun,22000
+10,	Blado,25000
+10,	Blora,20000
+10,	Bobotsari,25000
+10,	Bodeh,25000
+10,	Bogorejo,25000
+10,	Boja,25000
+10,	Bojonegoro,20000
+10,	Bojong,25000
+10,	Bojongsari,25000
+10,	Bonang,25000
+10,	Bonorowo,27000
+10,	Borobudur,27000
+10,	Boyolali,20000
+10,	Brangsong,25000
+10,	Brati,25000
+10,	Brebes,20000
+10,	Bringin,25000
+10,	Bruno,27000
+10,	Buaran,25000
+10,	Buayan,27000
+10,	Bubulan,25000
+10,	Bukateja,25000
+10,	Bulakamba,25000
+10,	Bulu,25000
+10,	Bulu,27000
+10,	Bulukerto,25000
+10,	Buluspesantren,27000
+10,	Bumiayu,20000
+10,	Bumijawa,25000
+10,	Butuh,27000
+10,	Candimulyo,27000
+10,	Candiroto,27000
+10,	Candisari,14000
+10,	Cawas,25000
+10,	Ceper,25000
+10,	Cepiring,25000
+10,	Cepogo,25000
+10,	Cepu,20000
+10,	Cilacap Selatan,15000
+10,	Cilacap Tengah,15000
+10,	Cilacap Utara,15000
+10,	Cilacap,15000
+10,	Cilongok,25000
+10,	Cimanggu,22000
+10,	Cipari,22000
+10,	Cluwak,25000
+10,	Colomadu,25000
+10,	Comal,25000
+10,	Dander,25000
+10,	Dawe,25000
+10,	Dayeuhluhur,22000
+10,	Delanggu,25000
+10,	Demak,20000
+10,	Dempet,25000
+10,	Doro,25000
+10,	Dukuhseti,25000
+10,	Dukuhturi,25000
+10,	Dukuhwaru,25000
+10,	Dukun,27000
+10,	Eromoko,25000
+10,	Gabus,25000
+10,	Gajah,25000
+10,	Gajahmungkur,14000
+10,	Gandrungmangu,22000
+10,	Gantiwarno,25000
+10,	Garung,27000
+10,	Gatak,25000
+10,	Gayamsari,14000
+10,	Gebang,27000
+10,	Gebog,25000
+10,	Gemawang,27000
+10,	Gembong,25000
+10,	Gemolong,25000
+10,	Gemuh,25000
+10,	Genuk,14000
+10,	Gesi,25000
+10,	Getasan,25000
+10,	Geyer,25000
+10,	Girimarto. Wonogiri,25000
+10,	Giritontro,25000
+10,	Giriwoyo,25000
+10,	Godong,25000
+10,	Gombong,27000
+10,	Gondang,25000
+10,	Gondangrejo,25000
+10,	Grabag,27000
+10,	Gringsing,25000
+10,	Grobogan,25000
+10,	Grogol,25000
+10,	Gubug,25000
+10,	Gumelar,25000
+10,	Gunem,25000
+10,	Guntur,25000
+10,	Gunungpati,14000
+10,	Gunungwungkal,25000
+10,	Jaken,25000
+10,	Jakenan,25000
+10,	Jambu,25000
+10,	Japah,25000
+10,	Jaten,25000
+10,	Jati,25000
+10,	Jatibarang,25000
+10,	Jatilawang,25000
+10,	Jatinegara,25000
+10,	Jatinom,25000
+10,	Jatipurno,25000
+10,	Jatipuro,25000
+10,	Jatiroto,25000
+10,	Jatisrono,25000
+10,	Jatiyoso,25000
+10,	Jebres,14000
+10,	Jekulo,25000
+10,	Jenar,25000
+10,	Jenawi,25000
+10,	Jepara,20000
+10,	Jepon,25000
+10,	Jeruklegi,22000
+10,	Jiken,25000
+10,	Jogonalan,25000
+10,	Jumantono,25000
+10,	Jumapolo,25000
+10,	Jumo,27000
+10,	Juwana,25000
+10,	Juwangi,25000
+10,	Juwiring,25000
+10,	Kajen,25000
+10,	Kajoran,27000
+10,	Kaliangkrik,27000
+10,	Kalibagor,25000
+10,	Kalibawang,27000
+10,	Kalibening,25000
+10,	Kaligesing,27000
+10,	Kaligondang,25000
+10,	Kalijambe,25000
+10,	Kalikajar,27000
+10,	Kalikotes,25000
+10,	Kalimanah,25000
+10,	Kalinyamatan,25000
+10,	Kaliori,25000
+10,	Kalitidu,25000
+10,	Kaliwiro,27000
+10,	Kaliwungu,25000
+10,	Kaloran,27000
+10,	Kampung Laut,22000
+10,	Kandang Serang,25000
+10,	Kandangan,27000
+10,	Kandeman,25000
+10,	Kangkung,25000
+10,	Kanor,25000
+10,	Kapas,25000
+10,	Karanganom,25000
+10,	Karanganyar,20000
+10,	Karanganyar,25000
+10,	Karanganyar,27000
+10,	Karangawen,25000
+10,	Karangayung,25000
+10,	Karangdadap,25000
+10,	Karangdowo,25000
+10,	Karanggayam,27000
+10,	Karanggede,25000
+10,	Karangjambu,25000
+10,	Karangkobar,25000
+10,	Karanglewas,25000
+10,	Karangmalang,25000
+10,	Karangmoncol,25000
+10,	Karangnongko,25000
+10,	Karangpandan,25000
+10,	Karangpucung,22000
+10,	Karangreja,25000
+10,	Karangsambung,27000
+10,	Karangtengah,25000
+10,	Karimunjawa,38000
+10,	Kartosuro,20000
+10,	Kasiman,25000
+10,	Kawunganten,22000
+10,	Kayen,25000
+10,	Kebakkramat,25000
+10,	Kebasen,25000
+10,	Kebonagung,25000
+10,	Kebonarum,25000
+10,	Kebumen,21000
+10,	Kedawung,25000
+10,	Kedewan,25000
+10,	Kedu,27000
+10,	Kedung,25000
+10,	Kedungadem,25000
+10,	Kedungbanteng,25000
+10,	Kedungjati,25000
+10,	Kedungrejo,22000
+10,	Kedungtuban,25000
+10,	Kedungwuni,25000
+10,	Kejajar,27000
+10,	Kejobong,25000
+10,	Keling,25000
+10,	Kemalang,25000
+10,	Kemangkon,25000
+10,	Kembang,25000
+10,	Kembaran,25000
+10,	Kemiri,27000
+10,	Kemranjen,25000
+10,	Kemusu,25000
+10,	Kendal,20000
+10,	Kepil,27000
+10,	Kepohbaru,25000
+10,	Kerjo,25000
+10,	Kersana,25000
+10,	Kertanegara,25000
+10,	Kerteg,27000
+10,	Kesesi,25000
+10,	Kesugihan,22000
+10,	Ketanggungan,25000
+10,	Kismantoro,25000
+10,	Klambu,25000
+10,	Klaten Selatan,25000
+10,	Klaten Tengah,25000
+10,	Klaten Utara,25000
+10,	Klaten,20000
+10,	Kledung,27000
+10,	Klego,25000
+10,	Klirong,27000
+10,	Kradenan,25000
+10,	Kragan,25000
+10,	Kramat,25000
+10,	Kranggan,27000
+10,	Kroya,22000
+10,	Kudus,20000
+10,	Kunduran,25000
+10,	Kutasari,25000
+10,	Kutoarjo,27000
+10,	Kutowinangun,27000
+10,	Kuwarasan,27000
+10,	Larangan,25000
+10,	Lasem,25000
+10,	Laweyan,14000
+10,	Lebak Barang,25000
+10,	Lebaksiu,25000
+10,	Leksono,27000
+10,	Limbangan,25000
+10,	Limpung,25000
+10,	Loano,27000
+10,	Losari,25000
+10,	Lumbir,25000
+10,	Madukara,25000
+10,	Magelang Selatan,17000
+10,	Magelang Tengah,17000
+10,	Magelang Utara,17000
+10,	Magelang,17000
+10,	Majenang,17000
+10,	Malo,25000
+10,	Mandiraja,25000
+10,	Manisrenggo,25000
+10,	Manyaran,25000
+10,	Maos,22000
+10,	Margadana,20000
+10,	Margasari,25000
+10,	Margomulyo,25000
+10,	Margorejo,25000
+10,	Margoyoso,25000
+10,	Masaran,25000
+10,	Matesih,25000
+10,	Mayong,25000
+10,	Mejobo,25000
+10,	Mertoyudan,27000
+10,	Miri,25000
+10,	Mirit,27000
+10,	Mlonggo,25000
+10,	Moga,25000
+10,	Mojogedang,25000
+10,	Mojolaban,25000
+10,	Mojosongo,25000
+10,	Mojotengah,27000
+10,	Mondokan,25000
+10,	Mranggen,25000
+10,	Mrebet,25000
+10,	Mungkid,21000
+10,	Muntilan,27000
+10,	Musuk,25000
+10,	Nalumsari,25000
+10,	Ngablak,27000
+10,	Ngadirejo,27000
+10,	Ngadirojo,25000
+10,	Ngaliyan,14000
+10,	Ngambon,25000
+10,	Ngampel,25000
+10,	Ngargoyoso,25000
+10,	Ngaringan,25000
+10,	Ngasem,25000
+10,	Ngawen,25000
+10,	Ngemplak,25000
+10,	Ngombol,27000
+10,	Ngraho,25000
+10,	Ngrampal,25000
+10,	Ngulwar,27000
+10,	Nguntoronadi,25000
+10,	Nguter,25000
+10,	Nogosari,25000
+10,	Nusawungu,22000
+10,	Pabelan,25000
+10,	Padamara,25000
+10,	Padangan,25000
+10,	Padureso,27000
+10,	Pagentan,25000
+10,	Pagerbarang,25000
+10,	Pageruyung,25000
+10,	Paguyangan,25000
+10,	Pakis,27000
+10,	Pakuncen,25000
+10,	Pamotan,25000
+10,	Pancur,25000
+10,	Pangkah,25000
+10,	Paninggaran,25000
+10,	Parakan,27000
+10,	Paranggupito,25000
+10,	Pasar Kliwon,14000
+10,	Patean,25000
+10,	Patebon,25000
+10,	Pati,20000
+10,	Patikraja,25000
+10,	Patimuan,22000
+10,	Pecalungan,25000
+10,	Pecangaan,25000
+10,	Pedan,25000
+10,	Pedurungan,14000
+10,	Pegandon,25000
+10,	Pejagoan,27000
+10,	Pejawaran,25000
+10,	Pekalongan Barat,20000
+10,	Pekalongan Selatan,20000
+10,	Pekalongan Timur,20000
+10,	Pekalongan Utara Pekalongan,20000
+10,	Pekalongan,20000
+10,	Pemalang,20000
+10,	Penawangan,25000
+10,	Pengadegan,25000
+10,	Petanahan,27000
+10,	Petarukan,25000
+10,	Petungkriyono,25000
+10,	Pituruh,27000
+10,	Plantungan,25000
+10,	Plupuh,25000
+10,	Polanharjo,25000
+10,	Polokarto,25000
+10,	Poncowarno,27000
+10,	Pracimantoro,25000
+10,	Prambanan,25000
+10,	Prembun,27000
+10,	Pringapus,25000
+10,	Pringsurat,27000
+10,	Pucakwangi,25000
+10,	Puhpelem,25000
+10,	Pulokulon,25000
+10,	Pulosari,25000
+10,	Punggelan,25000
+10,	Purbalingga,20000
+10,	Puring,27000
+10,	Purwanegara,25000
+10,	Purwantoro,25000
+10,	Purwodadi,20000
+10,	Purwodadi,21000
+10,	Purwojati,25000
+10,	Purwokerto Barat,25000
+10,	Purwokerto Selatan,25000
+10,	Purwokerto Timur,25000
+10,	Purwokerto Utara,25000
+10,	Purwokerto,20000
+10,	Purworejo / Klampok,25000
+10,	Purworejo,21000
+10,	Purwosari,25000
+10,	Rakit,25000
+10,	Randublatung,25000
+10,	Randudongkal,25000
+10,	Rawalo,25000
+10,	Reban,25000
+10,	Rembang,20000
+10,	Ringinarum,25000
+10,	Rowokele,27000
+10,	Rowosari,25000
+10,	Sadang,27000
+10,	Salam,27000
+10,	Salaman,27000
+10,	Salatiga,20000
+10,	Sale,25000
+10,	Salem,25000
+10,	Sambi,25000
+10,	Sambirejo,25000
+10,	Sambong,25000
+10,	Sambungmacan,25000
+10,	Sampang,22000
+10,	Sapuran,27000
+10,	Sarang,25000
+10,	Sawangan,27000
+10,	Sawit,25000
+10,	Sayung,25000
+10,	Secang,27000
+10,	Sedan,25000
+10,	Sekar,25000
+10,	Selo,25000
+10,	Selogiri,25000
+10,	Selomerto,27000
+10,	Selopampang,27000
+10,	Semarang Barat,14000
+10,	Semarang Selatan,14000
+10,	Semarang Tengah,14000
+10,	Semarang Timur,14000
+10,	Semarang Utara,14000
+10,	Semarang,14000
+10,	Sempor,27000
+10,	Serengan,14000
+10,	Sidareja,22000
+10,	Sidoharjo,25000
+10,	Sidomukti,20000
+10,	Sidorejo,20000
+10,	Sigaluh,25000
+10,	Simo,25000
+10,	Singorojo,25000
+10,	Sirampog,25000
+10,	Siwalan,25000
+10,	Slawi,20000
+10,	Slogohimo.Wonogiri,25000
+10,	Sluke,25000
+10,	Sokaraja,25000
+10,	Solo,14000
+10,	Somagede,25000
+10,	Songgom,25000
+10,	Sragen,20000
+10,	Sragi,25000
+10,	Srumbung,27000
+10,	Sruweng,27000
+10,	Subah,25000
+10,	Sugihwaras,25000
+10,	Sukodono,25000
+10,	Sukolilo,25000
+10,	Sukorejo,25000
+10,	Sukosewu,25000
+10,	Sulang,25000
+10,	Sumbang,25000
+10,	Sumber,25000
+10,	Sumberejo,25000
+10,	Sumberlawang,25000
+10,	Sumowono,25000
+10,	Sumpiuh,25000
+10,	Suradadi,25000
+10,	Suruh,25000
+10,	Susukan,25000
+10,	Tahunan,25000
+10,	Talang,25000
+10,	Talun,25000
+10,	Taman,25000
+10,	Tambak,25000
+10,	Tambakrejo,25000
+10,	Tambakromo,25000
+10,	Tangen,25000
+10,	Tanggungharjo,25000
+10,	Tanjung,25000
+10,	Tanon,25000
+10,	Tarub,25000
+10,	Tasikmadu,25000
+10,	Tawangharjo,25000
+10,	Tawangmangu,25000
+10,	Tawangsari,25000
+10,	Tayu,25000
+10,	Tegal Barat,20000
+10,	Tegal Selatan,20000
+10,	Tegal Timur,20000
+10,	Tegal,20000
+10,	Tegalrejo,27000
+10,	Tegowanu,25000
+10,	Telogowungu,25000
+10,	Temanggung,21000
+10,	Temayang,25000
+10,	Tembalang,14000
+10,	Tembarak,27000
+10,	Tempuran,27000
+10,	Tengaran,25000
+10,	Teras,25000
+10,	Tersono,25000
+10,	Tingkir,20000
+10,	Tirto,25000
+10,	Tirtomoyo,25000
+10,	Tlogomulyo,27000
+10,	Todanan,25000
+10,	Tonjong,25000
+10,	Toroh,25000
+10,	Trangkil,25000
+10,	Tretep,27000
+10,	Trucuk,25000
+10,	Tugu,14000
+10,	Tulis,25000
+10,	Tulung,25000
+10,	Tunjungan,25000
+10,	Tuntang,25000
+10,	Ulujami,25000
+10,	Undaan,25000
+10,	Ungaran Barat,14000
+10,	Ungaran Timur,14000
+10,	Ungaran,14000
+10,	Wadaslintang,27000
+10,	Wanadadi,25000
+10,	Wanareja,22000
+10,	Wanayasa,25000
+10,	Wangon,25000
+10,	Warungasem,25000
+10,	Warungpring,25000
+10,	Warureja,25000
+10,	Watukumpul,25000
+10,	Watumalang,27000
+10,	Wedarijaksa,25000
+10,	Wedi,25000
+10,	Wedung,25000
+10,	Welahan,25000
+10,	Weleri,25000
+10,	Weru,25000
+10,	Windusari,27000
+10,	Winong,25000
+10,	Wiradesa,25000
+10,	Wirosari,25000
+10,	Wonoboyo,27000
+10,	Wonogiri,20000
+10,	Wonokerto,25000
+10,	Wonopringgo,25000
+10,	Wonosalam,25000
+10,	Wonosari,25000
+10,	Wonosegoro,25000
+10,	Wonosobo,21000
+10,	Wonotunggal,25000
+10,	Wuryantoro,25000
+11,	Ajung,38000
+11,	Ambulu,38000
+11,	Ambunten,32000
+11,	Ampelgading,38000
+11,	Arjosari,38000
+11,	Arosbaya,32000
+11,	Asembagus,38000
+11,	Asemrowo,16000
+11,	Babadan,38000
+11,	Babat,32000
+11,	Badegan,38000
+11,	Bagor,32000
+11,	Bakung,38000
+11,	Balega,32000
+11,	Balerejo,38000
+11,	Balong,38000
+11,	Balongbendo,20000
+11,	Balongpanggang,32000
+11,	Balung,38000
+11,	Bancar,32000
+11,	Bandar,38000
+11,	Bandarkedungmulyo,32000
+11,	Bandung,32000
+11,	Bangil,30000
+11,	Bangilan,32000
+11,	Bangkalan,25000
+11,	Bangorejo,38000
+11,	Bangsal,20000
+11,	Bangsalsari,38000
+11,	Bantaran,38000
+11,	Bantur,38000
+11,	Banyakan,30000
+11,	Banyuanyar,38000
+11,	Banyuates,32000
+11,	Banyuglugur,38000
+11,	Banyuputih,38000
+11,	Banyuwangi,30000
+11,	Barat,38000
+11,	Bareng,32000
+11,	Baron,32000
+11,	Batang Batang,32000
+11,	Batu,30000
+11,	Batuan,32000
+11,	Batumarmar,32000
+11,	Batuputih,32000
+11,	Beji,30000
+11,	Bendo,38000
+11,	Bendungan,32000
+11,	Benjeng,32000
+11,	Benowo,16000
+11,	Berbek,32000
+11,	Besuk,38000
+11,	Binakal,38000
+11,	Binangun,38000
+11,	Blimbing,20000
+11,	Blitar,30000
+11,	Bluluk,32000
+11,	Bluto,32000
+11,	Bondowoso,30000
+11,	Boyolangu,32000
+11,	Bringin,38000
+11,	Brondong,32000
+11,	Bubutan,16000
+11,	Buduran,16000
+11,	Bugulkidul,20000
+11,	Bulak,16000
+11,	Bululawang,38000
+11,	Bumiaji,30000
+11,	Bungah,32000
+11,	Bungatan,38000
+11,	Bungkal,38000
+11,	Burneh,32000
+11,	Camplong,32000
+11,	Campurdarat,32000
+11,	Candi,16000
+11,	Candipuro,38000
+11,	Caruban,30000
+11,	Cerme,32000
+11,	Cermee,38000
+11,	Cluring,38000
+11,	Curahdami,38000
+11,	Dagangan,38000
+11,	Dampit,38000
+11,	Dasuk,32000
+11,	Dau,38000
+11,	Dawarblandong,20000
+11,	Deket,32000
+11,	Diwek,32000
+11,	Dlangu,20000
+11,	Doko,38000
+11,	Dolopo,38000
+11,	Dongko,32000
+11,	Donomulyo,38000
+11,	Donorojo,38000
+11,	Dringu,20000
+11,	Driyorejo,32000
+11,	Duduksampeyan,32000
+11,	Dukuh Pakis,16000
+11,	Dukun,32000
+11,	Dungkek,32000
+11,	Dupok,20000
+11,	Durenan,32000
+11,	Gading,38000
+11,	Gadingrejo,20000
+11,	Galis,32000
+11,	Gambiran,38000
+11,	Gampengrejo,20000
+11,	Ganding,32000
+11,	Gapura,32000
+11,	Garum,38000
+11,	Gayam,48000
+11,	Gayungan,16000
+11,	Gedeg,20000
+11,	Gemarang,38000
+11,	Gempol,30000
+11,	Gending,38000
+11,	Geneng,38000
+11,	Giligenting,48000
+11,	Giri,38000
+11,	Glenmore,38000
+11,	Grabagan,32000
+11,	Grati,30000
+11,	Gresik,16000
+11,	Grogol,30000
+11,	Grujugan,38000
+11,	Gubeng,16000
+11,	Gucialit,38000
+11,	Gudo,32000
+11,	Guluk Guluk,32000
+11,	Gumukmas,38000
+11,	Gununganyar,16000
+11,	Gurah,20000
+11,	Jabon,16000
+11,	Jabung,38000
+11,	Jambangan,16000
+11,	Jambon,38000
+11,	Jangkar,38000
+11,	Jatibanteng,38000
+11,	Jatikalen,32000
+11,	Jatirejo,20000
+11,	Jatirogo,32000
+11,	Jatiroto,38000
+11,	Jelbuk,38000
+11,	Jember,20000
+11,	Jenangan,38000
+11,	Jenggawah,38000
+11,	Jenu,32000
+11,	Jiwan,20000
+11,	Jogorogo,38000
+11,	Jogoroto,32000
+11,	Jrengik,32000
+11,	Junrejo,30000
+11,	Kabat,38000
+11,	Kabuh,32000
+11,	Kadur,32000
+11,	Kalianget,32000
+11,	Kalibaru,38000
+11,	Kalidawir,32000
+11,	Kalipare,38000
+11,	Kalipuro,38000
+11,	Kalisat,38000
+11,	Kalitengah,32000
+11,	Kaliwates,20000
+11,	Kamal,32000
+11,	Kampak,32000
+11,	Kandangan,30000
+11,	Kandat,30000
+11,	Kangean,48000
+11,	Kanigaran,20000
+11,	Kanigoro,38000
+11,	Kapongan,38000
+11,	Karangan,32000
+11,	Karanganyar,38000
+11,	Karangbinangun,32000
+11,	Karanggeneng,32000
+11,	Karangjati,38000
+11,	Karangpilang,16000
+11,	Karangploso,38000
+11,	Karas,38000
+11,	Kare,38000
+11,	Kasembon,38000
+11,	Kawedanan,38000
+11,	Kayen Kidul,30000
+11,	Kebomas,32000
+11,	Kebonagung,38000
+11,	Kebonsari,38000
+11,	Kedamean,32000
+11,	Kedawung,30000
+11,	Kediri,20000
+11,	Kedundung,32000
+11,	Kedunggalar,38000
+11,	Kedungjajang,38000
+11,	Kedungkandang,20000
+11,	Kedungpring,32000
+11,	Kedungwaru,32000
+11,	Kejayaan,30000
+11,	Kembangbahu,32000
+11,	Kemlagi,20000
+11,	Kencong,38000
+11,	Kendal,38000
+11,	Kendit,38000
+11,	Kendungan,38000
+11,	Kenduruan,32000
+11,	Kenjeran,16000
+11,	Kepanjen,30000
+11,	Kepanjenkidul,30000
+11,	Kepung,30000
+11,	Kerek,32000
+11,	Kertosono,32000
+11,	Ketapang,32000
+11,	Klabang,38000
+11,	Klakah,38000
+11,	Klampis,32000
+11,	Klojen,20000
+11,	Kokop,32000
+11,	Konang,32000
+11,	Kotaanyar,38000
+11,	Kraksaan,30000
+11,	Kras,30000
+11,	Kraton,30000
+11,	Krejengan,38000
+11,	Krembangan,16000
+11,	Krembung,16000
+11,	Krian,16000
+11,	Kromengan,38000
+11,	Krucil,38000
+11,	Kudu,32000
+11,	Kunir,38000
+11,	Kunjang,30000
+11,	Kuripan,38000
+11,	Kutorejo,20000
+11,	Kwadungan,38000
+11,	Kwanyar,32000
+11,	Labang,32000
+11,	Lakarsantri,16000
+11,	Lamongan,25000
+11,	Larangan,32000
+11,	Laren,32000
+11,	Lawang,38000
+11,	Leces,20000
+11,	Ledokombo,38000
+11,	Lekok,30000
+11,	Lembeyan,38000
+11,	Lengkong,32000
+11,	Lenteng,32000
+11,	Licin,38000
+11,	Loceret,32000
+11,	Lowokwaru,20000
+11,	Lumajang,30000
+11,	Madiun,20000
+11,	Maduran,32000
+11,	Maesan,38000
+11,	Magersari,20000
+11,	Magetan,30000
+11,	Malang,20000
+11,	Manding,32000
+11,	Mangaran,38000
+11,	Manguharjo,20000
+11,	Mantingan,38000
+11,	Mantup,32000
+11,	Manyar,32000
+11,	Maospati,38000
+11,	Maron,38000
+11,	Masalembu,48000
+11,	Mayang,38000
+11,	Mayangan,20000
+11,	Megaluh,32000
+11,	Mejayan,38000
+11,	Menganti,32000
+11,	Merakkurak,32000
+11,	Mlandingan,38000
+11,	Mlarak,38000
+11,	Modo,32000
+11,	Modung,32000
+11,	Mojo,30000
+11,	Mojoagung,32000
+11,	Mojoanyar,20000
+11,	Mojokerto,20000
+11,	Mojoroto,20000
+11,	Mojosari,20000
+11,	Mojowarno,32000
+11,	Montong,32000
+11,	Mulyorejo,16000
+11,	Mumbulsari,38000
+11,	Muncar,38000
+11,	Munjungan,32000
+11,	Nawangan,38000
+11,	Ngadiluwih,20000
+11,	Ngadirojo,38000
+11,	Ngajum,38000
+11,	Ngancar,30000
+11,	Nganjuk,25000
+11,	Ngantang,38000
+11,	Ngantru,32000
+11,	Ngariboyo,38000
+11,	Ngawi,30000
+11,	Ngebel,38000
+11,	Ngetos,32000
+11,	Ngimbang,32000
+11,	Nglegok,38000
+11,	Ngluyu,32000
+11,	Ngrambe,38000
+11,	Ngrayun,38000
+11,	Ngronggot,32000
+11,	Nguling,30000
+11,	Nguntoronadi,38000
+11,	Nguntut,32000
+11,	Ngusikan,32000
+11,	Nonggunong,48000
+11,	Nongko Jajar,30000
+11,	Omben,32000
+11,	Pabean Cantikan,16000
+11,	Pace,32000
+11,	Pacet,20000
+11,	Paciran,32000
+11,	Pacitan,30000
+11,	Padang,38000
+11,	Padas,38000
+11,	Pademawu,32000
+11,	Pagak,38000
+11,	Pagelaran,38000
+11,	Pagerwojo,32000
+11,	Pagu,30000
+11,	Paiton,30000
+11,	Pajarakan,38000
+11,	Pakal,16000
+11,	Pakel,32000
+11,	Pakem,38000
+11,	Pakis,38000
+11,	Pakisaji,38000
+11,	Pakong,32000
+11,	Pakuniran,38000
+11,	Pakusari,38000
+11,	Palang,32000
+11,	Palengaan,32000
+11,	Pamekasan,25000
+11,	Panarukan,38000
+11,	Panceng,32000
+11,	Pandaan,20000
+11,	Panekan,38000
+11,	Panggul,32000
+11,	Panggungrejo,38000
+11,	Pangkur,38000
+11,	Panji,38000
+11,	Panti,38000
+11,	Papar,30000
+11,	Parajurit Kulon,20000
+11,	Parang,38000
+11,	Pare,20000
+11,	Parengan,32000
+11,	Paron,38000
+11,	Pasean,32000
+11,	Pasirian,38000
+11,	Pasongsongan,32000
+11,	Pasrepan,30000
+11,	Pasrujambe,38000
+11,	Pasuruan,20000
+11,	Patianrowo,32000
+11,	Patrang,20000
+11,	Pegantenan,32000
+11,	Perak,32000
+11,	Pesanggaran,38000
+11,	Pesantren,20000
+11,	Peterongan,32000
+11,	Pilangkenceng,38000
+11,	Pitu,38000
+11,	Plandaan,32000
+11,	Plaosan,38000
+11,	Plemahan,30000
+11,	Ploso,32000
+11,	Plosoklaten,30000
+11,	Plumbang,32000
+11,	Pogalan,32000
+11,	Pohjentrek,30000
+11,	Poncokusumo,38000
+11,	Poncol,38000
+11,	Ponggok,38000
+11,	Ponorogo,30000
+11,	Porong,16000
+11,	Pragaan,32000
+11,	Prajekan,38000
+11,	Prigen,30000
+11,	Pringkuku,38000
+11,	Probolinggo,20000
+11,	Pronojiwo,38000
+11,	Proppo,32000
+11,	Pucanglaban,32000
+11,	Pucuk,32000
+11,	Pudak,38000
+11,	Puger,38000
+11,	Pujer,38000
+11,	Pujon,38000
+11,	Pule,32000
+11,	Pulung,38000
+11,	Puncu,30000
+11,	Pungging,20000
+11,	Punung,38000
+11,	Puri,20000
+11,	Purwoasri,30000
+11,	Purwodadi,30000
+11,	Purwoharjo,38000
+11,	Purworejo,20000
+11,	Purwosari,30000
+11,	Puspo,30000
+11,	Raas,48000
+11,	Rambipuji,38000
+11,	Randuagung,38000
+11,	Ranuyoso,38000
+11,	Rejotangan,32000
+11,	Rembang,30000
+11,	Rengel,32000
+11,	Ringinrejo,30000
+11,	Robatal,32000
+11,	Rogojampi,38000
+11,	Rowokangkung,38000
+11,	Rubaru,32000
+11,	Rungkut,16000
+11,	Sambeng,32000
+11,	Sambikerep,16000
+11,	Sambit,38000
+11,	Sampang,25000
+11,	Sampung,38000
+11,	Sanankulon,38000
+11,	Sananwetan,30000
+11,	Sangkapura,32000
+11,	Sapeken,48000
+11,	Saradan,38000
+11,	Sarirejo,32000
+11,	Saronggi,32000
+11,	Sawoo,38000
+11,	Sedati,16000
+11,	Sekaran,32000
+11,	Selopuro,38000
+11,	Selorejo,38000
+11,	Semampir,16000
+11,	Semanding,32000
+11,	Semboro,38000
+11,	Semen,30000
+11,	Sempol,38000
+11,	Sempu,38000
+11,	Sendang,32000
+11,	Senduro,38000
+11,	Senori,32000
+11,	Sepulu,32000
+11,	Sidayu,32000
+11,	Sidoarjo,16000
+11,	Siliragung,38000
+11,	Silo,38000
+11,	Siman,38000
+11,	Simokerto,16000
+11,	Sine,38000
+11,	Singgahan,32000
+11,	Singojuruh,38000
+11,	Singosari,38000
+11,	Situbondo,30000
+11,	Slahung,38000
+11,	Socah,32000
+11,	Soko,32000
+11,	Sokobanah,32000
+11,	Solokuro,32000
+11,	Songgon,38000
+11,	Srengat,38000
+11,	Sreseh,32000
+11,	Srono,38000
+11,	Suboh,38000
+11,	Sudimoro,38000
+11,	Sugio,32000
+11,	Sukapura,38000
+11,	Sukodadi,32000
+11,	Sukolilo,16000
+11,	Sukomanunggal,16000
+11,	Sukorambi,38000
+11,	Sukorame,32000
+11,	Sukosari,38000
+11,	Sukowono,38000
+11,	Sukun,20000
+11,	Sumber,38000
+11,	Sumberasih,38000
+11,	Sumberbaru,38000
+11,	Sumbergempol,32000
+11,	Sumberjambe,38000
+11,	Sumbermalang,38000
+11,	Sumbermanjingwetan,38000
+11,	Sumberpucung,38000
+11,	Sumbersari,20000
+11,	Sumbersoko,20000
+11,	Sumberwringin,38000
+11,	Sumenep,25000
+11,	Sumobito,32000
+11,	Surabaya,16000
+11,	Suruh,32000
+11,	Sutojayan,38000
+11,	Tajinan,38000
+11,	Takeran,38000
+11,	Talango,48000
+11,	Talun,38000
+11,	Tambak,32000
+11,	Tambakboyo,32000
+11,	Tambaksari,16000
+11,	Tambelangan,32000
+11,	Tanahmerah,32000
+11,	Tandes,16000
+11,	Tanggul,38000
+11,	Tanggulangin,16000
+11,	Tanggung Gunung,32000
+11,	Tanjunganom,32000
+11,	Tanjungbumi,32000
+11,	Tapen,38000
+11,	Tarik,20000
+11,	Tarokan,30000
+11,	Tegalampel,38000
+11,	Tegaldlimo,38000
+11,	Tegalombo,38000
+11,	Tegalsari,16000
+11,	Tegalsari,38000
+11,	Tegalsiwalan,38000
+11,	Tekung,38000
+11,	Tembelang,32000
+11,	Tempeh,38000
+11,	Tempurejo,38000
+11,	Tempursari,38000
+11,	Tenggarang,38000
+11,	Tenggilis Mejoyo,16000
+11,	Tikung,32000
+11,	Tiris,38000
+11,	Tirtoyudo,38000
+11,	Tlanakan,32000
+11,	Tlogosari,38000
+11,	Tongas,38000
+11,	Torjun,32000
+11,	Tosari,30000
+11,	Tragah,32000
+11,	Trawas,20000
+11,	Trenggalek,25000
+11,	Trowulan,20000
+11,	Tuban,25000
+11,	Tugu,32000
+11,	Tulakan,38000
+11,	Tulangan,16000
+11,	Tulungagung,25000
+11,	Tumpang,38000
+11,	Turen,38000
+11,	Turi,32000
+11,	Tutur,30000
+11,	Udanawu,38000
+11,	Ujungpangkah,32000
+11,	Umbulsari,38000
+11,	Wagir,38000
+11,	Wajak,38000
+11,	Watulimo,32000
+11,	Widang,32000
+11,	Widodaren,38000
+11,	Wilangan,32000
+11,	Winongan,30000
+11,	Wiyung,16000
+11,	Wlingi,30000
+11,	Wongsorejo,38000
+11,	Wonoasih,20000
+11,	Wonoasri,38000
+11,	Wonoayu,16000
+11,	Wonocolo,16000
+11,	Wonodadi,38000
+11,	Wonokromo,16000
+11,	Wonomerto,38000
+11,	Wonorejo,30000
+11,	Wonosalam,32000
+11,	Wonotirto,38000
+11,	Wringin,38000
+11,	Wringinanom,32000
+11,	Wuluhan,38000
+11,	Wungu,38000
+11,	Yosowilangun,38000
+12,	Air Besar,53000
+12,	Air Upas,53000
+12,	Ambalau,53000
+12,	Badau,53000
+12,	Balai,53000
+12,	Batang Lupar,53000
+12,	Batu Ampar,53000
+12,	Batu Datu,53000
+12,	Beduwai,53000
+12,	Belimbing,53000
+12,	Belitang Hilir,53000
+12,	Belitang Hulu,53000
+12,	Belitang,53000
+12,	Bengkayang,42000
+12,	Benua Kayong,53000
+12,	Binjai Hulu,53000
+12,	Bonti,53000
+12,	Boyan Tanjung,53000
+12,	Bunut Hilir,53000
+12,	Bunut Hulu,53000
+12,	Dedai,53000
+12,	Delta Pawan,53000
+12,	Ella Hilir,53000
+12,	Embaloh Hilir,53000
+12,	Embaloh Hulu,53000
+12,	Embau,53000
+12,	Empanang,53000
+12,	Entikong,53000
+12,	Galing,53000
+12,	Hulu Gurung,53000
+12,	Hulu Sungai,53000
+12,	Jagoi Babang,53000
+12,	Jangkang,53000
+12,	Jawai Selatan,53000
+12,	Jawai,53000
+12,	Jelai Hulu,53000
+12,	Kalis,53000
+12,	Kayan Hilir,53000
+12,	Kayan Hulu,53000
+12,	Kedamin,53000
+12,	Kelam Permai,53000
+12,	Kembayan,53000
+12,	Kendawangan,53000
+12,	Ketapang,42000
+12,	Ketungau Hilir,53000
+12,	Ketungau Hulu,53000
+12,	Ketungau Tengah,53000
+12,	Kuala Behe,53000
+12,	Kuala Mandor,53000
+12,	Kubu Raya,25000
+12,	Kubu,53000
+12,	Ledo,53000
+12,	Manday,53000
+12,	Mandor,53000
+12,	Manis Mata,53000
+12,	Marau,53000
+12,	Matan Hilir Selatan,53000
+12,	Matan Hilir Utara,53000
+12,	Meliau,53000
+12,	Mempawah Hulu,53000
+12,	Mempawah,42000
+12,	Menjalin,53000
+12,	Mentebah,53000
+12,	Menukung,53000
+12,	Menyuke,53000
+12,	Meranti,53000
+12,	Monterado,53000
+12,	Muara Pawan,53000
+12,	Mukok,53000
+12,	Nanga Mahap,53000
+12,	Nanga Pinoh,42000
+12,	Nanga Taman,53000
+12,	Nanga Tayap,53000
+12,	Ngabang,42000
+12,	Noyan,53000
+12,	Paloh,53000
+12,	Parindu,53000
+12,	Pemaham,53000
+12,	Pemangkat,53000
+12,	Pontianak Barat,25000
+12,	Pontianak Kota,25000
+12,	Pontianak Selatan,25000
+12,	Pontianak Tenggara,25000
+12,	Pontianak Timur / Jungkat,25000
+12,	Pontianak Utara,25000
+12,	Pontianak,25000
+12,	Pulau Maya Karimata,53000
+12,	Puring Kencana,53000
+12,	Putussibau,42000
+12,	Rasau Jaya,53000
+12,	Sajad,53000
+12,	Sajingan,53000
+12,	Salamantan,53000
+12,	Sambas,42000
+12,	Sandai,53000
+12,	Sanggau Ledo,53000
+12,	Sanggau,42000
+12,	Sayan,53000
+12,	Sebangki,53000
+12,	Sebawi,53000
+12,	Seberuang,53000
+12,	Sejangkung,53000
+12,	Sekadau Hilir,42000
+12,	Sekadau Hulu,53000
+12,	Sekayam,53000
+12,	Selakau,53000
+12,	Selimbau,53000
+12,	Seluas,53000
+12,	Semitau,53000
+12,	Semparuk,53000
+12,	Sengah Temila,53000
+12,	Sepauk,53000
+12,	Seponti Jaya,53000
+12,	Serawai,53000
+12,	Siantan / Wajok,42000
+12,	Silat Hilir,53000
+12,	Silat Hulu,53000
+12,	Simpang Dua,53000
+12,	Simpang Hilir,53000
+12,	Simpang Hulu,53000
+12,	Singkawang Barat,42000
+12,	Singkawang Selatan,42000
+12,	Singkawang Tengah,42000
+12,	Singkawang Timur,42000
+12,	Singkawang Utara,42000
+12,	Singkawang,42000
+12,	Singkup,53000
+12,	Sintang,42000
+12,	Sokan,53000
+12,	Subah,53000
+12,	Suhaid,53000
+12,	Sui Ambawang,53000
+12,	Sui Kakap,53000
+12,	Sui Raya,53000
+12,	Sukadana,42000
+12,	Sungai Ambawang,53000
+12,	Sungai Kakap,53000
+12,	Sungai Kunyit,53000
+12,	Sungai Laur,53000
+12,	Sungai Pinyuh,53000
+12,	Sungai Tebelian,53000
+12,	Suti Semarang,53000
+12,	Tanah Pinoh,53000
+12,	Tanggaran,53000
+12,	Tayan Hilir,53000
+12,	Tayan Hulu,53000
+12,	Tebas,53000
+12,	Tekarang,53000
+12,	Telok Pakedai,53000
+12,	Teluk Batang,53000
+12,	Teluk Keramat,53000
+12,	Teluk Pakedai,53000
+12,	Tempunak,53000
+12,	Terentang,53000
+12,	Teriak,53000
+12,	Toba,53000
+12,	Toho,53000
+12,	Tumbang Titi,53000
+13,	Alalak,49000
+13,	Aluh Aluh,49000
+13,	Amuntai Selatan,39000
+13,	Amuntai Tengah,39000
+13,	Amuntai Utara,39000
+13,	Amuntai,39000
+13,	Angkinang,49000
+13,	Anjir Muara,49000
+13,	Anjir Pasar,49000
+13,	Aranio,49000
+13,	Astambul,49000
+13,	Awang,49000
+13,	Awayan,49000
+13,	Babirik,49000
+13,	Bakarangan,49000
+13,	Bakumpai,49000
+13,	Banjang,49000
+13,	Banjarbaru,25000
+13,	Banjarmasin Barat,25000
+13,	Banjarmasin Selatan,25000
+13,	Banjarmasin Tengah,25000
+13,	Banjarmasin Timur,25000
+13,	Banjarmasin Utara,25000
+13,	Banjarmasin,25000
+13,	Banua Lawas,49000
+13,	Barabai,39000
+13,	Barambai,49000
+13,	Batang Alai Selatan,49000
+13,	Batang Alai Tengah,49000
+13,	Batang Alai Utara,49000
+13,	Batu Ampar,49000
+13,	Batu Benawa,49000
+13,	Batu Mandi,49000
+13,	Batulicin,39000
+13,	Belawang,49000
+13,	Benua Lima,49000
+13,	Bintang Ara,49000
+13,	Binuang,49000
+13,	Bungur,49000
+13,	Buntok,39000
+13,	Candi Laras Selatan,49000
+13,	Candi Laras Utara,49000
+13,	Cempaka,25000
+13,	Cerbon,49000
+13,	Daha Barat,49000
+13,	Daha Selatan,49000
+13,	Daha Utara,49000
+13,	Danau Panggang,49000
+13,	Dusun Hilir,49000
+13,	Dusun Selatan,49000
+13,	Dusun Tengah,49000
+13,	Dusun Timur,49000
+13,	Dusun Utara,49000
+13,	Gambut,49000
+13,	Gunung Bintang Awai,49000
+13,	Gunung Purei,49000
+13,	Gunung Timang,49000
+13,	Halong,49000
+13,	Hampang,49000
+13,	Hantakan,49000
+13,	Haruai,49000
+13,	Haruyan,49000
+13,	Hatungun,39000
+13,	Jaro,49000
+13,	Jenamas,49000
+13,	Jorong,49000
+13,	Juai,49000
+13,	Kalumpang,49000
+13,	Kandangan,39000
+13,	Karang Intan,49000
+13,	Karau Kuala,49000
+13,	Kelua,49000
+13,	Kelumpang Hulu,49000
+13,	Kelumpang Selatan,49000
+13,	Kelumpang Tengah,49000
+13,	Kelumpang Utara,49000
+13,	Kertak Hanyar,49000
+13,	Kintap,49000
+13,	Kotabaru,39000
+13,	Kurau,49000
+13,	Kuripan,49000
+13,	Kusan Hilir,49000
+13,	Kusan Hulu,49000
+13,	Labuan Amas Selatan,49000
+13,	Labuan Amas Utara,49000
+13,	Lahei,49000
+13,	Lampihong,49000
+13,	Landasan Ulin,25000
+13,	Laung Tuhup,49000
+13,	Lokpaikat,49000
+13,	Loksado,49000
+13,	Mandastana,49000
+13,	Marabahan,39000
+13,	Martapura,39000
+13,	Mataraman,49000
+13,	Mekar Sari,49000
+13,	Montalat,49000
+13,	Muara Harus,49000
+13,	Muara Uya,49000
+13,	Muarateweh,39000
+13,	Murung Pudak,49000
+13,	Murung,49000
+13,	P. Laut Barat,49000
+13,	P. Laut Selatan,49000
+13,	P. Laut Timur,49000
+13,	P. Laut Utara,49000
+13,	P. Sebuku,49000
+13,	P. Sembilan,49000
+13,	Padang Batung,49000
+13,	Pamukan Selatan,49000
+13,	Pamukan Utara,49000
+13,	Pandawan,49000
+13,	Panyipatan,49000
+13,	Paringin,39000
+13,	Patangkep Tutui,49000
+13,	Pelaihari,39000
+13,	Pematang Karau,49000
+13,	Pengaron,49000
+13,	Permata Intan,49000
+13,	Piani,49000
+13,	Pugaan,49000
+13,	Puruk Cahu,39000
+13,	Rantau Badauh,49000
+13,	Rantau,39000
+13,	Salam Babaris,39000
+13,	Sampanahan,49000
+13,	Satui,49000
+13,	Simpang Empat,49000
+13,	Simpur,49000
+13,	Sumber Barito,49000
+13,	Sungai Durian,49000
+13,	Sungai Loban,49000
+13,	Sungai Pandan,49000
+13,	Sungai Pinang,49000
+13,	Sungai Raya,49000
+13,	Sungai Tabuk,49000
+13,	Tabukan,49000
+13,	Tabunganen,49000
+13,	Takisung,49000
+13,	Tambang Ulang,49000
+13,	Tamianglayang,39000
+13,	Tanah Siang,49000
+13,	Tanjung,39000
+13,	Tanta,49000
+13,	Tapin Selatan,39000
+13,	Tapin Tengah,39000
+13,	Tapin Utara,39000
+13,	Telaga Langsat,49000
+13,	Temban,49000
+13,	Teweh Tengah,49000
+13,	Teweh Timur,49000
+13,	Upau,49000
+13,	Wanaraya,49000
+14,	Antang Kalang,62000
+14,	Arut Selatan,62000
+14,	Arut Utara,62000
+14,	Baamang,62000
+14,	Balai Riam,62000
+14,	Banamatingang,62000
+14,	Basarang,62000
+14,	Bukit Batu,25000
+14,	Bulik,62000
+14,	Cempaga,62000
+14,	Danau Sembuluh,62000
+14,	Delang,93000
+14,	Hanau,93000
+14,	Jekan Raya,25000
+14,	Jelai,62000
+14,	Kahayan Hilir,62000
+14,	Kahayan Hulu Utara,93000
+14,	Kahayan Kuala,93000
+14,	Kahayan Tengah,62000
+14,	Kamipang,93000
+14,	Kapuas Barat,62000
+14,	Kapuas Hilir,62000
+14,	Kapuas Hulu,62000
+14,	Kapuas Kuala,62000
+14,	Kapuas Murung,62000
+14,	Kapuas Tengah,62000
+14,	Kapuas Timur,62000
+14,	Kasongan,49000
+14,	Katingan Hilir,62000
+14,	Katingan Hulu,93000
+14,	Katingan Kuala,93000
+14,	Katingan Tengah,62000
+14,	Kota Besi,62000
+14,	Kota Waringin Lama,62000
+14,	Kuala Pembuang,49000
+14,	Kualakapuas,49000
+14,	Kualakurun,49000
+14,	Kumai,62000
+14,	Lamandau,62000
+14,	Maliku,93000
+14,	Mantangai,62000
+14,	Marikit,93000
+14,	Mendawai,62000
+14,	Mentawa Baru,62000
+14,	Mentaya Hilir Selatan,62000
+14,	Mentaya Hilir Utara,62000
+14,	Mentaya Hulu,62000
+14,	Munuhing,93000
+14,	Nanga Bulik,49000
+14,	Pahandut,25000
+14,	Palangkaraya,25000
+14,	Pandihbatu,62000
+14,	Pangkalan Banteng,62000
+14,	Pangkalan Lada,62000
+14,	Pangkalanbun,49000
+14,	Parenggean,62000
+14,	Pulang Pisau,49000
+14,	Pulau Hanaut,62000
+14,	Pulau Malan,62000
+14,	Pulau Petak,62000
+14,	Rakumpit,93000
+14,	Rungan,93000
+14,	Sampit,49000
+14,	Sebangau,25000
+14,	Selat,62000
+14,	Senamang Mentikei,93000
+14,	Sepang,62000
+14,	Seruyan Hilir,62000
+14,	Seruyan Hulu,93000
+14,	Seruyan Tengah,93000
+14,	Sukamara,49000
+14,	Tasik Payawan,93000
+14,	Tewah,93000
+14,	Tewang Sangalang Garing,93000
+14,	Timpah,62000
+15,	Anggana,68000
+15,	Babulu,60000
+15,	Balikpapan Barat,27000
+15,	Balikpapan Selatan,27000
+15,	Balikpapan Tengah,27000
+15,	Balikpapan Timur,27000
+15,	Balikpapan Utara,27000
+15,	Balikpapan,27000
+15,	Barongtongkok,68000
+15,	Batu Ampar,78000
+15,	Batu Engau,90000
+15,	Batu Sopang,60000
+15,	Bengalon,52000
+15,	Bentian Besar,102000
+15,	Biduk Biduk,60000
+15,	Bongan,102000
+15,	Bontang Barat,32000
+15,	Bontang Selatan,32000
+15,	Bontang Utara,32000
+15,	Bontang,32000
+15,	Busang,78000
+15,	Damai,102000
+15,	Gunung Tabur,60000
+15,	Jempang,102000
+15,	Kaliorang,52000
+15,	Karangan,78000
+15,	Kaubun,78000
+15,	Kelay,60000
+15,	Kembang Janggut,102000
+15,	Kenohan,102000
+15,	Kongbeng,78000
+15,	Kota Bangun,68000
+15,	Kuaro,60000
+15,	Linggang Bigung,68000
+15,	Loa Janan,68000
+15,	Loa Kulu / Loa Bakung,54000
+15,	Long Apari,102000
+15,	Long Hubung,102000
+15,	Long Ikis,60000
+15,	Long Kali,60000
+15,	Long Masengat,78000
+15,	Longbagun,102000
+15,	Longiram,102000
+15,	Longpahangai,102000
+15,	Marang Kayu,68000
+15,	Maratua,60000
+15,	Melak,68000
+15,	Muara Ancalong,78000
+15,	Muara Badak,54000
+15,	Muara Bengkal,78000
+15,	Muara Jawa,60000
+15,	Muara Komam,60000
+15,	Muara Muntai,68000
+15,	Muara Samu,90000
+15,	Muara Wahau,52000
+15,	Muara Wis,68000
+15,	Muarakaman,68000
+15,	Muaralawa,68000
+15,	Muarapahu,68000
+15,	Nyuwatan,68000
+15,	Palaran,29000
+15,	Pasir Belengkong,90000
+15,	Penajam,48000
+15,	Penyinggahan,68000
+15,	Pulau Derawan,60000
+15,	Rantau Pulung,52000
+15,	Samarinda Ilir,29000
+15,	Samarinda Seberang,29000
+15,	Samarinda Ulu,29000
+15,	Samarinda Utara,29000
+15,	Samarinda,29000
+15,	Sambaliung,60000
+15,	Samboja,60000
+15,	Sandaran,78000
+15,	Sangatta Selatan,41000
+15,	Sanggata,41000
+15,	Sangkima / Sangata Selatan,41000
+15,	Sangkulirang,52000
+15,	Sebulu,68000
+15,	Segah,60000
+15,	Sendawar,54000
+15,	Sepaku,90000
+15,	Singa Gembara / Sangata Urata,41000
+15,	Sungai Kunjang,29000
+15,	Swarga Bara / Sangata Utara,41000
+15,	Tabang,102000
+15,	Talisayan,60000
+15,	Tanah Grogot,48000
+15,	Tanjung Harapan,90000
+15,	Tanjungredeb,48000
+15,	Telen,78000
+15,	Teluk Bayur,60000
+15,	Teluk Pandan,41000
+15,	Tenggarong Seberang,68000
+15,	Tenggarong,54000
+15,	Tubaan,60000
+15,	Waru,60000
+16,	Kayan Hilir,63000
+16,	Kayan Hulu,63000
+16,	Krayan Selatan,63000
+16,	Krayan,63000
+16,	Lumbis,63000
+16,	Malinau Barat,50000
+16,	Malinau Selatan,50000
+16,	Malinau Utara,50000
+16,	Malinau,50000
+16,	Mentarang,63000
+16,	Nunukan,50000
+16,	Peso / Longpeso,63000
+16,	Peso Hilir,63000
+16,	Pujungan,63000
+16,	Pulau Bunyu,63000
+16,	Sebatik,50000
+16,	Sebuku,63000
+16,	Sekatak,63000
+16,	Sembakung,63000
+16,	Sesayap Hilir,63000
+16,	Sesayap,63000
+16,	Sungai Boh,63000
+16,	Tana Tidung,50000
+16,	Tanah Lia,63000
+16,	Tanjung Palas,63000
+16,	Tanjung Palas Barat,63000
+16,	Tanjung Palas Tengah,63000
+16,	Tanjung Palas Timur,63000
+16,	Tanjung Palas Utara,63000
+16,	Tanjung Selor,50000
+16,	Tarakan Barat,35000
+16,	Tarakan Tengah,35000
+16,	Tarakan Timur,35000
+16,	Tarakan Utara,35000
+16,	Tarakan,35000
+17,	Bandar Sri Bentan,43000
+17,	Batam,22000
+17,	Batu Ampar,22000
+17,	Belakang Padang,58000
+17,	Bintan Timur / Kijang,43000
+17,	Bukit Bestari,26000
+17,	Bulang Galang,22000
+17,	Bunguran Barat,87000
+17,	Bunguran Tengah,87000
+17,	Bunguran Timur Laut,87000
+17,	Bunguran Timur,87000
+17,	Bunguran Utara,87000
+17,	Buru,87000
+17,	Daik,46000
+17,	Galang,22000
+17,	Gunung Kijang,43000
+17,	Jemaja Timur,87000
+17,	Jemaja,87000
+17,	Karimun,58000
+17,	Kundur Barat,58000
+17,	Kundur Utara,58000
+17,	Kundur,46000
+17,	Lagoi,43000
+17,	Lingga Utara,87000
+17,	Lingga,46000
+17,	Lubuk Baja,22000
+17,	Meral,58000
+17,	Midai,87000
+17,	Moro,87000
+17,	Nongsa / Kabil,22000
+17,	Pal Matak,87000
+17,	Pulau Laut,87000
+17,	Pulau Tiga,87000
+17,	Ranai,58000
+17,	Sei Baduk,22000
+17,	Sekupang / Tanjung Uncang,22000
+17,	Senayang,87000
+17,	Serasan,87000
+17,	Siantan Selatan,87000
+17,	Siantan Timur,87000
+17,	Siantan,87000
+17,	Singkep Barat,87000
+17,	Singkep,46000
+17,	Subi,87000
+17,	Tambelan,43000
+17,	Tanjung Balai Karimun,46000
+17,	Tanjung Batu,58000
+17,	Tanjung Uban / Bintan Utara,34000
+17,	Tanjungpinang,26000
+17,	Tebing,58000
+17,	Teluk Bintan,43000
+17,	Teluk Sebong,43000
+17,	Tg Pinang Barat,26000
+17,	Tg Pinang Kota,26000
+17,	Tg Pinang Timur,26000
+18,	Abung Barat, 38000	
+18,	Abung Selatan, 38000	
+18,	Abung Semuli, 38000	
+18,	Abung Surakarta, 38000	
+18,	Abung Tengah, 38000	
+18,	Abung Timur, 38000	
+18,	Abung Tinggi, 38000	
+18,	Adi Luwih, 38000	
+18,	Anak Tuha, 38000	
+18,	Bahuga, 38000	
+18,	Bakauheuni, 30000	
+18,	Balik Bukit, 38000	
+18,	Bandar Jaya, 38000	
+18,	Bandar Mataram, 38000	
+18,	Bandar Sribawano, 38000	
+18,	Bandar Surabaya, 38000	
+18,	Bandarlampung	, 17000
+18,	Bangun Rejo, 38000	
+18,	Banjar Agung, 38000	
+18,	Banjit, 38000	
+18,	Baradatu, 38000	
+18,	Batang Hari, 38000	
+18,	Batanghari Nuban, 38000	
+18,	Batu Brak, 38000	
+18,	Bekri, 38000	
+18,	Belalau, 38000	
+18,	Bengkunat, 38000	
+18,	Blambangan Umpu, 30000	
+18,	Braja Slebah, 38000	
+18,	Bukit Kemuning, 30000	
+18,	Bumi Agung, 38000	
+18,	Bumi Nabung, 38000	
+18,	Bumi Ratu Nuban, 38000	
+18,	Bunga Mayang, 38000	
+18,	Candipuro, 38000	
+18,	Cukup Balak, 38000	
+18,	Gading Rejo, 38000	
+18,	Gedong Tataan, 30000	
+18,	Gedung Aji, 38000	
+18,	Gedung Meneng, 38000	
+18,	Gedung Terang, 38000	
+18,	Gunung Labuhan, 38000	
+18,	Gunung Pelidung, 38000	
+18,	Gunung Sugih, 30000	
+18,	Jabung / Gn. Balak, 38000	
+18,	Jati Agung, 38000	
+18,	Kalianda, 30000	
+18,	Kalirejo, 38000	
+18,	Karya Penggawa, 38000	
+18,	Kasui, 38000	
+18,	Katibung, 38000	
+18,	Kedaton, 17000	
+18,	Kedondong, 38000	
+18,	Kelumbayan, 38000	
+18,	Kemiling, 17000	
+18,	Ketapang, 38000	
+18,	Kota Agung, 30000	
+18,	Kota Gajah, 38000	
+18,	Kotabumi Selatan, 38000	
+18,	Kotabumi Utara, 38000	
+18,	Kotabumi, 30000	
+18,	Labuhan Maringgai, 38000	
+18,	Labuhan Ratu, 38000	
+18,	Lambu Kimbang, 38000	
+18,	Lemong, 38000	
+18,	Liwa  Barat	, 30000
+18,	Margatiga, 38000	
+18,	Mataram Baru, 38000	
+18,	Melinting, 38000	
+18,	Menggala, 30000	
+18,	Merbau Mataram, 38000	
+18,	Mesuji, 38000	
+18,	Metro Barat, 30000	
+18,	Metro Kibang, 38000	
+18,	Metro Pusat, 30000	
+18,	Metro Selatan, 30000	
+18,	Metro Timur, 30000	
+18,	Metro Utara, 30000	
+18,	Metro, 30000	
+18,	Muara Sungkai, 38000	
+18,	Natar, 38000	
+18,	Negeri Agung, 57000	
+18,	Negeri Batin, 38000	
+18,	Negeri Besar, 57000	
+18,	Negeri Katon, 38000	
+18,	Padang Cermin, 38000	
+18,	Padangratu, 38000	
+18,	Pagelaran, 38000	
+18,	Pakuan Ratu, 57000	
+18,	Palas, 38000	
+18,	Panengahan, 38000	
+18,	Panjang, 17000	
+18,	Pasir Sakti, 38000	
+18,	Pekalongan, 38000	
+18,	Pematang Sawa, 38000	
+18,	Penawar Tama, 38000	
+18,	Perdasuka, 38000	
+18,	Pesisir Selatan, 38000	
+18,	Pesisir Tengah / Krui, 30000	
+18,	Pesisir Utara, 38000	
+18,	Pringsewu, 30000	
+18,	Pubian, 38000	
+18,	Pugung, 38000	
+18,	Pulau Panggung, 38000	
+18,	Pundung Pidada, 38000	
+18,	Pungur, 38000	
+18,	Purbolinggo, 38000	
+18,	Rajabasa, 17000	
+18,	Rajabasa, 38000	
+18,	Raman Utara, 38000	
+18,	Rawajitu Selatan, 38000	
+18,	Rawajitu Utara, 57000	
+18,	Rebang Tangkas, 38000	
+18,	Rumbia, 38000	
+18,	Sekampung Udik, 38000	
+18,	Sekampung, 38000	
+18,	Sekincau, 38000	
+18,	Selagai Lingga, 57000	
+18,	Semaka, 38000	
+18,	Sendang Agung, 38000	
+18,	Seputih Agung, 38000	
+18,	Seputih Mataram, 38000	
+18,	Seputih Surabaya, 38000	
+18,	Seputihbanyak, 38000	
+18,	Seputihraman, 38000	
+18,	Sidomulyo, 38000	
+18,	Simpang Pematang, 38000	
+18,	Sragi, 38000	
+18,	Sukabumi, 17000	
+18,	Sukadana, 30000	
+18,	Sukarame, 17000	
+18,	Sukau, 38000	
+18,	Sukoharjo, 38000	
+18,	Sumber Jaya, 30000	
+18,	Sumberejo, 38000	
+18,	Sungkai Selatan, 38000	
+18,	Sungkai Utara, 38000	
+18,	Suoh, 57000	
+18,	Talangpadang, 30000	
+18,	Tanjung Bintang, 38000	
+18,	Tanjung Raya, 38000	
+18,	Tanjung Senang, 17000	
+18,	Tanjungraja, 38000	
+18,	Tanjungsari, 38000	
+18,	Tegineneng, 38000	
+18,	Teluk Betung Barat, 17000	
+18,	Telukbetung Selatan, 17000	
+18,	Telukbetung Utara, 17000	
+18,	Terbanggibesar / Bandarjaya, 38000	
+18,	Terusan Nunyai, 38000	
+18,	Tg Karang Barat, 17000	
+18,	Tg Karang Pusat, 17000	
+18,	Tg Karang Timur, 17000	
+18,	Trimurjo, 38000	
+18,	Tulang Bawang Tengah, 38000	
+18,	Tulang Bawang Udik, 38000	
+18,	Tumijajar, 38000	
+18,	Ulubelu, 38000	
+18,	Waway Karya, 38000	
+18,	Way Bungur, 38000	
+18,	Way Jepara, 38000	
+18,	Way Lima, 38000	
+18,	Way Pangubuan, 38000	
+18,	Way Panji, 38000	
+18,	Way Seputih, 38000	
+18,	Way Serdang, 38000	
+18,	Way Sulan, 38000	
+18,	Way Tenong, 38000	
+18,	Way Tuba, 38000	
+18,	Wonosobo, 38000	
+19,	Air Buaya / Buru Utara Barat,164000
+19,	Amahai,164000
+19,	Ambon,46000
+19,	Banda,164000
+19,	Bula,164000
+19,	Damer,164000
+19,	Dataran Hunimoa,164000
+19,	Dobo,164000
+19,	Kairatu,164000
+19,	Kei Besar Selatan,164000
+19,	Kei Besar Utara Timur,164000
+19,	Kei Besar,164000
+19,	Kei Kecil,164000
+19,	Kormomolin,164000
+19,	Leihitu,164000
+19,	Leitimur Selatan,46000
+19,	Leksula / Buru Selatan,164000
+19,	Luser,164000
+19,	Masohi,87000
+19,	Mola,164000
+19,	Namlea,87000
+19,	Nirunmas,164000
+19,	Nusa Laut,164000
+19,	Nusaniwe,46000
+19,	Piru,164000
+19,	Pulau Babar Timur,164000
+19,	Pulau Gorong,164000
+19,	Pulau Haruku,164000
+19,	Pulau Letimoa Lakor,164000
+19,	Pulau Wetar,164000
+19,	Sala Hatu,109000
+19,	Saparua Masohi,164000
+19,	Saumlaki,87000
+19,	Selaru,164000
+19,	Seram Barat,164000
+19,	Seram Timur,164000
+19,	Seram Utara,164000
+19,	Serwaru,164000
+19,	Sirimau,46000
+19,	Tanimbar Selatan,164000
+19,	Tanimbar Utara,164000
+19,	Taniwel,164000
+19,	Tehoru,164000
+19,	Teluk Ambon Baguala,46000
+19,	Teluk Ambon,46000
+19,	Teon Nila Serua,164000
+19,	Tual,87000
+19,	Waesama,164000
+19,	Waisala,164000
+19,	Wayapo,164000
+19,	Wer Makatian,164000
+19,	Werinama,164000
+19,	Wertamrian,164000
+19,	Wuarlabobar,164000
+19,	Yaru,164000
+20,	Bacan Selatan,122000
+20,	Bacan Timur,122000
+20,	Bacan,122000
+20,	Galela,122000
+20,	Gane Barat,183000
+20,	Gane Timur,183000
+20,	Gebe,122000
+20,	Ibu,183000
+20,	Jailolo Selatan,122000
+20,	Jailolo,97000
+20,	Kao,122000
+20,	Kayoa,183000
+20,	Labuha,97000
+20,	Loloda Utara,183000
+20,	Loloda,183000
+20,	Maba Selatan,122000
+20,	Maba,97000
+20,	Malifut,183000
+20,	Mangoli Barat,122000
+20,	Mangoli Timur,122000
+20,	Morotai Selatan Barat,183000
+20,	Morotai Selatan,183000
+20,	Morotai Utara,183000
+20,	Moti,122000
+20,	Nggele,183000
+20,	Oba Utara,183000
+20,	Oba,183000
+20,	Obi Selatan,183000
+20,	Obi,183000
+20,	Patani Gebe,183000
+20,	Pulau Makian,183000
+20,	Sahu,122000
+20,	Sanana,97000
+20,	Sula Besi Barat,183000
+20,	Taliabu Barat,183000
+20,	Taliabu Timur,183000
+20,	Ternate Selatan,122000
+20,	Ternate Utara,122000
+20,	Ternate,37000
+20,	Tidore Selatan,122000
+20,	Tidore Utara,122000
+20,	Tidore,97000
+20,	Tobelo Selatan,122000
+20,	Tobelo,97000
+20,	Wasile Selatan,183000
+20,	Wasile,183000
+20,	Weda,97000
+21,	Alafan,86000
+21,	Arongan Lambalek,57000
+21,	Atu Lintang,57000
+21,	Babah Rot,57000
+21,	Babul Makmur,57000
+21,	Babul Rahmat,57000
+21,	Babussalam,57000
+21,	Badar,57000
+21,	Baiturrahman,30000
+21,	Baitussalam,57000
+21,	Bakongan Timur,57000
+21,	Bakongan,57000
+21,	Baktia,57000
+21,	Baktiya Barat,57000
+21,	Bambel,57000
+21,	Banda Alam,57000
+21,	Banda Raya,30000
+21,	Banda Sakti,45000
+21,	Bandaaceh,30000
+21,	Bandar Baru,57000
+21,	Bandar Dua,57000
+21,	Bandar,57000
+21,	Batee,57000
+21,	Bebesan,57000
+21,	Bendahara,57000
+21,	Beutong,57000
+21,	Bies,57000
+21,	Bintang,57000
+21,	Birem Bayeun,57000
+21,	Bireuen,45000
+21,	Blang Mangat,45000
+21,	Blangjerango,57000
+21,	Blangkejeren,45000
+21,	Blangpegayon,57000
+21,	Blangpidie,45000
+21,	Bubon,57000
+21,	Bukit Tusam,57000
+21,	Bukit,57000
+21,	Celala,57000
+21,	Cot Girek,57000
+21,	Dabunggelang,57000
+21,	Danau Paris,57000
+21,	Darul Aman,57000
+21,	Darul Hasanah,57000
+21,	Darul Iksan,57000
+21,	Darul Imarah,57000
+21,	Darul Kamal,57000
+21,	Darul Makmur,57000
+21,	Darusalam,57000
+21,	Delima,57000
+21,	Dewantara,57000
+21,	Gandapura,57000
+21,	Geumpang,57000
+21,	Gleumpang Tiga,57000
+21,	Glumpang Baro,57000
+21,	Gunung Meriah,57000
+21,	Idi Rayeuk,45000
+21,	Idi Tuning,57000
+21,	Indra Jaya,57000
+21,	Indra Makmur,57000
+21,	Indrapuri,57000
+21,	Ingin Jaya,57000
+21,	Jagong Jeget,57000
+21,	Jangka Buya,57000
+21,	Jangka,57000
+21,	Jantho,45000
+21,	Jaya Baru,30000
+21,	Jaya,57000
+21,	Jeumpa,57000
+21,	Jeunieb,57000
+21,	Johan Pahlawan,57000
+21,	Juli,57000
+21,	Julok,57000
+21,	Karangbaru,57000
+21,	Kawai XVI,57000
+21,	Kebayakan,57000
+21,	Kejuruan Muda,57000
+21,	Kembang Tanjung,57000
+21,	Ketol,57000
+21,	Kluet Tengah,57000
+21,	Kluet Timur,57000
+21,	Kluet Utara,57000
+21,	Kota Baharu,57000
+21,	Kota Juang,57000
+21,	Krueng Barona Jaya,57000
+21,	Krueng Sabee / Calang,45000
+21,	Kuala Batee,57000
+21,	Kuala,57000
+21,	Kualasimpang,45000
+21,	Kuet Selatan,57000
+21,	Kuta Alam,30000
+21,	Kuta Blang,57000
+21,	Kuta Cot Glie,57000
+21,	Kuta Malaka,57000
+21,	Kuta Panjang,57000
+21,	Kuta Raja,30000
+21,	Kutabaro,57000
+21,	Kutacane,45000
+21,	Kutamakmur,57000
+21,	Kute Panang,57000
+21,	Labuhan Haji Barat,57000
+21,	Labuhan Haji Timur,57000
+21,	Labuhan Haji,57000
+21,	Langkahan,57000
+21,	Langsa Barat,45000
+21,	Langsa Kota,45000
+21,	Langsa Lama,45000
+21,	Langsa Teungoh,45000
+21,	Langsa Timur,45000
+21,	Langsa,45000
+21,	Lauttawar,57000
+21,	Lawe Alas,57000
+21,	Lawe Bulan,57000
+21,	Lawe Sigalagala,57000
+21,	Lembah Seulawah,57000
+21,	Leupung,57000
+21,	Lhoknga,57000
+21,	Lhokseumawe,45000
+21,	Lhoksukon,45000
+21,	Lhoong,57000
+21,	Linge,57000
+21,	Lokop(Serbajadi),57000
+21,	Longkip,45000
+21,	Lueng Bata,30000
+21,	Madat,57000
+21,	Makmur,57000
+21,	Mane,57000
+21,	Manggeng,57000
+21,	Manyuk Payed,57000
+21,	Matangkuli,57000
+21,	Mesjid Raya,57000
+21,	Meukek,57000
+21,	Meulaboh,45000
+21,	Meurah Dua,57000
+21,	Meurah Mulia,57000
+21,	Meuraksa,30000
+21,	Meureudu,45000
+21,	Mila,57000
+21,	Montasik,57000
+21,	Muara Batu,57000
+21,	Muara Dua,45000
+21,	Muara Tiga,57000
+21,	Mutiara Timur,57000
+21,	Mutiara,57000
+21,	Nibong,57000
+21,	Nisam,57000
+21,	Nurussalam,57000
+21,	Padang Tiji,57000
+21,	Pandrah,57000
+21,	Pangat,57000
+21,	Pantan Jaya,57000
+21,	Pante Beudari,57000
+21,	Pante Ceureumen,57000
+21,	Panteraja,57000
+21,	Pasie Raja,57000
+21,	Paya Bakong,57000
+21,	Pegasing,57000
+21,	Penanggalan,45000
+21,	Permata,57000
+21,	Peudada,57000
+21,	Peudawa,57000
+21,	Peukan Bada,57000
+21,	Peukan Baro,57000
+21,	Peureulak Barat,57000
+21,	Peureulak Timur,57000
+21,	Peureulak,57000
+21,	Peusangan Selatan,57000
+21,	Peusangan Siblah Krueng,57000
+21,	Peusangan,57000
+21,	Pidie,57000
+21,	Pining,57000
+21,	Pintu Rime,57000
+21,	Primbang,57000
+21,	Pulau Banyak,57000
+21,	Puro Aceh,57000
+21,	Puteribetung,57000
+21,	Rantau Selamat,57000
+21,	Ranto Peureulak,57000
+21,	Rikitgaib,57000
+21,	Rundeng,45000
+21,	Rusip Antara,57000
+21,	Sabang,45000
+21,	Sakti,57000
+21,	Salang,86000
+21,	Sama Tiga,57000
+21,	Samadua,57000
+21,	Samalanga,57000
+21,	Sampoi Niet,57000
+21,	Samudera,57000
+21,	Sawang,57000
+21,	Semadam,57000
+21,	Seruai,57000
+21,	Setia Bakti,57000
+21,	Seulimeum,57000
+21,	Seunagan Timur,57000
+21,	Seunagan,57000
+21,	Seunoddon,57000
+21,	Sigli,45000
+21,	Silih Nara,57000
+21,	Simeulu Barat,86000
+21,	Simeulu Tengah,86000
+21,	Simeulu Timur,86000
+21,	Simpang Jernih,57000
+21,	Simpang Kanan,57000
+21,	Simpang Keuramat,57000
+21,	Simpang Kiri,45000
+21,	Simpang Mamplam,57000
+21,	Simpang Tiga Redelon,45000
+21,	Simpang Tiga,57000
+21,	Simpangulim,57000
+21,	Sinabang,86000
+21,	Singkil Utara,57000
+21,	Singkil,45000
+21,	Singkohor,57000
+21,	Subulussalam,45000
+21,	Suka Makmue,45000
+21,	Suka Makmur,57000
+21,	Sukajaya,45000
+21,	Sukakarya,45000
+21,	Sultan Daulat,45000
+21,	Sungai Mas,57000
+21,	Sungai Raya,57000
+21,	Suro Baru,57000
+21,	Susoh,57000
+21,	Syamtalira Aron,57000
+21,	Syamtalira Bayu,57000
+21,	Syiah Kuala,30000
+21,	Syiah Kuala,57000
+21,	Takengon,45000
+21,	Tamiang Hulu,57000
+21,	Tanah Jambo Aye,57000
+21,	Tanah Luas,57000
+21,	Tanah Pasir,57000
+21,	Tangantangan,57000
+21,	Tangse,57000
+21,	Tapaktuan,45000
+21,	Teluk Dalam,86000
+21,	Terangon,57000
+21,	Teripejaya,57000
+21,	Teunom,57000
+21,	Teupah Barat,86000
+21,	Teupah Selatan,86000
+21,	Timang Gajah,57000
+21,	Tiro / Truseb,57000
+21,	Titeue / Keumala,57000
+21,	Trienggading,57000
+21,	Trumon Timur,57000
+21,	Trumon,57000
+21,	Ulee Kareng,30000
+21,	Ulim,57000
+21,	Wih Pesam,57000
+21,	Woyla Barat,57000
+21,	Woyla Timur,57000
+21,	Woyla,57000
+22,	Aikmel,42000
+22,	Alas Barat,42000
+22,	Alas,42000
+22,	Ambalawi,63000
+22,	Ampenan,25000
+22,	Asakota,33000
+22,	Batukliang Utara,42000
+22,	Batukliang,42000
+22,	Batulanteh,63000
+22,	Batulayar,42000
+22,	Bayan,63000
+22,	Belo,42000
+22,	Bima,33000
+22,	Bolo,42000
+22,	Brang Rea,42000
+22,	Cakranegara,25000
+22,	Dompu,33000
+22,	Donggo,42000
+22,	Empang,42000
+22,	Gangga,63000
+22,	Gerung,33000
+22,	Gunung Sari,42000
+22,	Huu,63000
+22,	Janapria,42000
+22,	Jereweh / Batuhijau / Bennete,42000
+22,	Jerowaru,42000
+22,	Jonggat,42000
+22,	Kayangan,63000
+22,	Kediri,42000
+22,	Kempo,63000
+22,	Keruak,42000
+22,	Kilo,63000
+22,	Kopang,42000
+22,	Kuripan,42000
+22,	Labangka,63000
+22,	Labu Api,42000
+22,	Labuhan Badas,42000
+22,	Labuhan Haji,42000
+22,	Lambu,42000
+22,	Langgudu,63000
+22,	Lembar,42000
+22,	Lingsar,42000
+22,	Lunyuk,63000
+22,	Mada Pangga,42000
+22,	Manggelewa,42000
+22,	Masbagik,42000
+22,	Mataram,25000
+22,	Monta,42000
+22,	Montong Gading,42000
+22,	Moyohilir,42000
+22,	Moyohulu,42000
+22,	Mpunda,33000
+22,	Narmada,42000
+22,	Pajo,63000
+22,	Pekat,63000
+22,	Pemenang,63000
+22,	Plampang,42000
+22,	Praya Barat Daya,33000
+22,	Praya Barat,33000
+22,	Praya Tengah,33000
+22,	Praya Timur,33000
+22,	Praya,33000
+22,	Pringgabaya,63000
+22,	Pringgarata,42000
+22,	Pringgasela,42000
+22,	Pujut,42000
+22,	Raba,33000
+22,	Rasanae Barat,33000
+22,	Rasanae Timur,33000
+22,	Ropang,63000
+22,	Sakra Barat,42000
+22,	Sakra Timur,42000
+22,	Sakra,42000
+22,	Sambelia,63000
+22,	Sanggar,63000
+22,	Sape,42000
+22,	Sekongkang / Batuhijau / Bennete,42000
+22,	Sekotong Tengah,63000
+22,	Seletuk,63000
+22,	Selong,33000
+22,	Sembalun,63000
+22,	Sikur,42000
+22,	Suela,42000
+22,	Sukamulia,42000
+22,	Sumbawa Besar,33000
+22,	Sumbawa,33000
+22,	Suralaga,42000
+22,	Taliwang,33000
+22,	Tambora,63000
+22,	Tanjung,42000
+22,	Terara,42000
+22,	Utanrhee,42000
+22,	Wanasaba,42000
+22,	Wawo,42000
+22,	Wera,42000
+22,	Woha,33000
+22,	Woja,42000
+23,	Adonara Barat,116000
+23,	Adonara Timur,116000
+23,	Aesesa Selatan,116000
+23,	Aesesa,116000
+23,	Aimere,116000
+23,	Alak,35000
+23,	Alok,77000
+23,	Alor Barat Daya,116000
+23,	Alor Barat Laut,116000
+23,	Alor Selatan,116000
+23,	Alor Tengah Utara,116000
+23,	Alor Timur Laut,116000
+23,	Alor Timur,116000
+23,	Amabioefeto Timur,116000
+23,	Amanatun Selatan,77000
+23,	Amanatun Tengah,77000
+23,	Amanatun Timur,77000
+23,	Amanatun Utara,77000
+23,	Amanuban Barat,116000
+23,	Amanuban Selatan,77000
+23,	Amarasi Barat,116000
+23,	Amarasi Selatan,116000
+23,	Amarasi Timur,116000
+23,	Amarasi,116000
+23,	Amfoang Barat Daya,116000
+23,	Amfoang Barat Laut,116000
+23,	Amfoang Selatan,116000
+23,	Amfoang Utara,116000
+23,	Atadei,116000
+23,	Atambua,61000
+23,	Baa,61000
+23,	Bajawa,116000
+23,	Batu Putih,116000
+23,	Biboki Anleu,77000
+23,	Biboki Selatan,77000
+23,	Biboki Utara,77000
+23,	Boawae,116000
+23,	Boking,77000
+23,	Bola,116000
+23,	Borong,116000
+23,	Buyasuri,116000
+23,	Cibal,116000
+23,	Detukeli,77000
+23,	Detusoko,77000
+23,	Elar,116000
+23,	Ende Selatan,61000
+23,	Ende Tengah,61000
+23,	Ende Timur,61000
+23,	Ende Utara,61000
+23,	Ende,61000
+23,	Fatuleu Barat,116000
+23,	Fatuleu Tengah,116000
+23,	Fatuleu,116000
+23,	Fatumnasi,77000
+23,	Golewa,116000
+23,	Haharu,116000
+23,	Hawu Mehara,116000
+23,	Ile Ape,116000
+23,	Ile Boleng,77000
+23,	Ile Mandiri,77000
+23,	Insana Utara,77000
+23,	Insana,77000
+23,	Jere Buu,77000
+23,	Kahaungu Eti,116000
+23,	Kakuluk Mesak,116000
+23,	Kalabahi,61000
+23,	Kalbano,77000
+23,	Karera,116000
+23,	Katikutana,116000
+23,	Kefamenanu,61000
+23,	Kelapa Lima,35000
+23,	Kelimutu,77000
+23,	Kelubagolit,77000
+23,	Keo Tengah,116000
+23,	Kewapante,116000
+23,	Kie,77000
+23,	Kobalima,116000
+23,	Kodi Bangedo,116000
+23,	Kodi Utara,116000
+23,	Kodi,116000
+23,	Komba,116000
+23,	Komodo,116000
+23,	Kot'olin,77000
+23,	Kotabaru,77000
+23,	Kualin,77000
+23,	Kuan Fatu,77000
+23,	Kupang Barat,61000
+23,	Kupang Tengah,61000
+23,	Kupang Timur,61000
+23,	Kupang,35000
+23,	Kuwus,116000
+23,	Labuan Bajo,61000
+23,	Lamakmen,77000
+23,	Lamba Leda,116000
+23,	Lambaleda,116000
+23,	Larantuka,61000
+23,	Laratama,116000
+23,	Laura,116000
+23,	Lebatukan,116000
+23,	Lela,116000
+23,	Lembor,116000
+23,	Lewa,116000
+23,	Lewoleba,61000
+23,	Lio Timur,77000
+23,	Lobalain,116000
+23,	Lomba,116000
+23,	Macang Pacar,116000
+23,	Magekoba / Maurole,77000
+23,	Malaka Barat,116000
+23,	Malaka Tengah,77000
+23,	Malaka Timur,116000
+23,	Mamboro,116000
+23,	Matawai Lapau,116000
+23,	Maukaro,77000
+23,	Maumere,61000
+23,	Mauponggo,116000
+23,	Mawlapa,35000
+23,	Mbay,116000
+23,	Mborong,116000
+23,	Mego,116000
+23,	Miomafo Barat,77000
+23,	Miomafu Timur,77000
+23,	Mollo Selatan,116000
+23,	Mollo Utara,116000
+23,	Nagawutung,116000
+23,	Nanga Panda,77000
+23,	Nangaroro,116000
+23,	Ndona Timur,77000
+23,	Ndona,77000
+23,	Nekemese,116000
+23,	Neomuti,77000
+23,	Ngada Bawa,77000
+23,	Nggaha Oriangu,116000
+23,	Nita,77000
+23,	Nubatukan,116000
+23,	Nunkolo,77000
+23,	Oebobo,35000
+23,	Oelamasi,61000
+23,	Oenino,116000
+23,	Omesuri,116000
+23,	Paberiawai,116000
+23,	Paga,116000
+23,	Pahungalodu,116000
+23,	Palue,116000
+23,	Pandawai,116000
+23,	Pantai Baru,116000
+23,	Pantar Barat,116000
+23,	Pantar,116000
+23,	Pinu Pahar,116000
+23,	Poco Ranaka,116000
+23,	Polen,116000
+23,	Ponco Ranaka,116000
+23,	Pulau Ende,116000
+23,	Raihat,116000
+23,	Raijua,116000
+23,	Reo,116000
+23,	Rindi,116000
+23,	Rinhat,116000
+23,	Riung Barat,116000
+23,	Riung,116000
+23,	Rote Barat Daya,116000
+23,	Rote Barat Laut,116000
+23,	Rote Tengah,116000
+23,	Rote Timur,116000
+23,	Ruteng,61000
+23,	Sabu Barat,116000
+23,	Sabu Liae,116000
+23,	Sabu Timur,116000
+23,	Sambi Rambas,116000
+23,	Sambi Rampas,116000
+23,	Sanonggoang,116000
+23,	Sasita Mean,116000
+23,	Satarmese,116000
+23,	Semau Selatan,116000
+23,	Semau,116000
+23,	Soa,116000
+23,	Soe,61000
+23,	Solor Barat,116000
+23,	Solor Timur,116000
+23,	Sulamu,116000
+23,	Tabundung,116000
+23,	Taebenu,116000
+23,	Takari,116000
+23,	Talibura,116000
+23,	Tambolaka,61000
+23,	Tanjung Bunga,77000
+23,	Tasifeto Barat,77000
+23,	Tasifeto Timur,116000
+23,	Teluk Mutiara,77000
+23,	Tionas,77000
+23,	Titihena,77000
+23,	Umalulu,116000
+23,	Umbu Ratu Nggay Barat,116000
+23,	Umbu Ratu Nggay,116000
+23,	Wae Rii,116000
+23,	Waibakul,116000
+23,	Waigete,116000
+23,	Waikabubak,61000
+23,	Waingapu,61000
+23,	Walakaka,116000
+23,	Wewaria,116000
+23,	Wewewa Barat,116000
+23,	Wewewa Selatan,116000
+23,	Wewewa Timur,116000
+23,	Wewewa Utara,116000
+23,	Witihama,77000
+23,	Wogomang Ulewa,77000
+23,	Wolo Wae,116000
+23,	Wolo Waru,77000
+23,	Wolojita,116000
+23,	Wotan Ulu Mado,77000
+23,	Wulandoni,116000
+23,	Wulanggitang,77000
+23,	Wulla Waijelu,116000
+24,	Abenaho,137000
+24,	Abepura,70000
+24,	Agats,109000
+24,	Agimuga,138000
+24,	Agisiga,155000
+24,	Akat,137000
+24,	Anggruk,206000
+24,	Angkaisera,137000
+24,	Apalapsili,137000
+24,	Aradide,155000
+24,	Arso,137000
+24,	Asologaima,137000
+24,	Assue,155000
+24,	Atsy,137000
+24,	Batom,137000
+24,	Benuki,206000
+24,	Beoga,155000
+24,	Biak Barat,137000
+24,	Biak Timur,137000
+24,	Biak Utara,137000
+24,	Biak,109000
+24,	Biandoga,155000
+24,	Bibida,155000
+24,	Bogoboida,155000
+24,	Bokondini,137000
+24,	Bolakma,137000
+24,	Bonggo,137000
+24,	Borme,137000
+24,	Botawa,206000
+24,	Bowobado,155000
+24,	Burmeso,206000
+24,	Citak Mitak,155000
+24,	Demta,70000
+24,	Depapre,70000
+24,	Dipa,155000
+24,	Distrik Bomakia,137000
+24,	Distrik Ulilin,137000
+24,	Edera,155000
+24,	Eligobel,137000
+24,	Enarotali,124000
+24,	Fawi,155000
+24,	Fayit,137000
+24,	Gamelia,137000
+24,	Haju,155000
+24,	Hitadipa,155000
+24,	Homeyo,155000
+24,	Hubikosi,137000
+24,	Ilaga,155000
+24,	Ilu,155000
+24,	Intan Jaya,155000
+24,	Iwur,137000
+24,	Jagebob,137000
+24,	Jair,137000
+24,	Jayapura Selatan,70000
+24,	Jayapura Utara,70000
+24,	Jayapura,70000
+24,	Jila,138000
+24,	Jita,138000
+24,	Kamu Selatan,155000
+24,	Kamu Timur,155000
+24,	Kamu Utara,155000
+24,	Kamu,124000
+24,	Kanggime,206000
+24,	Kapiraya,155000
+24,	Karubaga,109000
+24,	Kaureh,70000
+24,	Kelila,137000
+24,	Kembu,206000
+24,	Kemtuk Gressi,70000
+24,	Kemtuk,137000
+24,	Kenyam,137000
+24,	Kepi,124000
+24,	Kepulauan Padaidio,137000
+24,	Kimaam,137000
+24,	Kiwirok,137000
+24,	Kobakma,137000
+24,	Kouh,137000
+24,	Kuala Kencana,138000
+24,	Kurik,137000
+24,	Kurima,206000
+24,	Kurulu,137000
+24,	Maki,137000
+24,	Makimi,155000
+24,	Mamberamo Ilir,206000
+24,	Mamberamo Tengah Timur,206000
+24,	Mamberamo Tengah,206000
+24,	Mamberamo Ulu,206000
+24,	Mandobo,137000
+24,	Mapenduma,137000
+24,	Mapia,155000
+24,	Masirei,206000
+24,	Menou,155000
+24,	Merauke,109000
+24,	Mimika Barat Jauh,110000
+24,	Mimika Barat Tengah,110000
+24,	Mimika Barat,110000
+24,	Mimika Baru,110000
+24,	Mimika Timur Jauh,110000
+24,	Mimika Timur Tengah,110000
+24,	Mimika Timur,110000
+24,	Mindiptana,137000
+24,	Muara Tam,70000
+24,	Mulia,124000
+24,	Muting,137000
+24,	Nabire Barat,155000
+24,	Nabire,90000
+24,	Nambioman Bapai,155000
+24,	Napan,155000
+24,	Nimbokrang,137000
+24,	Nimboran,70000
+24,	Ninia,206000
+24,	Numfor Barat,137000
+24,	Numfor Timur,137000
+24,	Obaa,155000
+24,	Obano,155000
+24,	Okaba,137000
+24,	Okbibab,137000
+24,	Oksibil,109000
+24,	Paniai Barat,155000
+24,	Pantai Barat,137000
+24,	Pantai Kasuari,137000
+24,	Pantai Timur,137000
+24,	Pirime,137000
+24,	Poom,137000
+24,	Rufaer,206000
+24,	Samofa,137000
+24,	Sarmi,109000
+24,	Sawaerma,137000
+24,	Sawai,206000
+24,	Semangga,137000
+24,	Senggi,137000
+24,	Sentani Barat,137000
+24,	Sentani Timur,137000
+24,	Sentani,109000
+24,	Serui,109000
+24,	Sinak,155000
+24,	Siriwo,155000
+24,	Skanto,137000
+24,	Sorendiweri,109000
+24,	Sota,137000
+24,	Suator,137000
+24,	Sugapa,124000
+24,	Sukikai Selatan,155000
+24,	Sukikai,155000
+24,	Sumohai,206000
+24,	Supiori Selatan,137000
+24,	Supiori Timur,137000
+24,	Supiori Utara,137000
+24,	Tanah Merah,109000
+24,	Tanah Miring,137000
+24,	Teluk Kimi,155000
+24,	Teluk Umar,155000
+24,	Tembaga Pura,110000
+24,	Tigi Barat,155000
+24,	Tigi Timur,155000
+24,	Tigi,124000
+24,	Timika,87000
+24,	Tiom,137000
+24,	Tor Atas,137000
+24,	Unurum Guay,137000
+24,	Uwapa,155000
+24,	Wamena,109000
+24,	Wandai,155000
+24,	Wanggar,155000
+24,	Wapoga,155000
+24,	Waris,109000
+24,	Waropen Atas,206000
+24,	Waropen Bawah,206000
+24,	Waropko,137000
+24,	Warsa,137000
+24,	Web,137000
+24,	Yapen Barat,137000
+24,	Yapen Selatan,137000
+24,	Yapen Timur,137000
+24,	Yaro,155000
+24,	Yaur,155000
+24,	Yendidori,137000
+25,	Abun,143000
+25,	Aifat Timur,143000
+25,	Aifat,143000
+25,	Aimas,143000
+25,	Aitinyo,143000
+25,	Amberbaken,143000
+25,	Anggi,143000
+25,	Aranday,143000
+25,	Ayamaru Utara,143000
+25,	Ayamaru,143000
+25,	Babo,143000
+25,	Beraur,143000
+25,	Bintuni,114000
+25,	Buruwai,143000
+25,	Door,143000
+25,	Fafuwar,143000
+25,	Fef,143000
+25,	Inanwatan,143000
+25,	Kaimana,114000
+25,	Kais,143000
+25,	Kebar,143000
+25,	Kepulauan Ayau,143000
+25,	Klamono,143000
+25,	Kofiau,143000
+25,	Kokoda,143000
+25,	Kuri,143000
+25,	Makbon,143000
+25,	Manokwari,114000
+25,	Mare,143000
+25,	Masni,143000
+25,	Merdey,143000
+25,	Minyambouw,143000
+25,	Misool Timur Selatan,143000
+25,	Misool,143000
+25,	Moraid,143000
+25,	Moskona Selatan,143000
+25,	Moskona Utara,143000
+25,	Moswaren,143000
+25,	Oransbari,143000
+25,	Prafi,143000
+25,	Ransiki,143000
+25,	Rasei,114000
+25,	Rumberpon,143000
+25,	Salawati,143000
+25,	Samate,143000
+25,	Sausapor,143000
+25,	Sawiat,143000
+25,	Sayosa,143000
+25,	Seget,143000
+25,	Segun,143000
+25,	Seremuk,143000
+25,	Sorong Barat,92000
+25,	Sorong Timur,92000
+25,	Sorong,92000
+25,	Sugurey,143000
+25,	Teluk Arguni,143000
+25,	Teluk Etna,143000
+25,	Teluk Mayalibit,143000
+25,	Tembuni,143000
+25,	Teminabuan,114000
+25,	Waigeo Barat,143000
+25,	Waigeo Selatan,143000
+25,	Waigeo Timur,143000
+25,	Waigeo Utara,143000
+25,	Waisai,114000
+25,	Wamesa,143000
+25,	Warmare,143000
+25,	Wasior Barat,143000
+25,	Wasior Selatan,143000
+25,	Wasior Utara,143000
+25,	Wasior,143000
+25,	Wayer,143000
+25,	Windesi,143000
+26,	Bagan Sinembah,48000
+26,	Bagansiapiapi,38000
+26,	Bangkinang Barat,48000
+26,	Bangkinang Seberang,48000
+26,	Bangkinang,38000
+26,	Bangko Pusako,48000
+26,	Bangko,48000
+26,	Bangun Purba,48000
+26,	Bantan,48000
+26,	Batang Cenaku,48000
+26,	Batang Gansal,48000
+26,	Batang Tuaka,72000
+26,	Batu Hampar,48000
+26,	Benai,48000
+26,	Bengkalis,38000
+26,	Bukit Batu,48000
+26,	Bukit Kapur,38000
+26,	Bukit Raya,22000
+26,	Bunga Raya,48000
+26,	Bunut,48000
+26,	Cerenti,48000
+26,	Dayun,48000
+26,	Dumai Barat,38000
+26,	Dumai Timur,38000
+26,	Dumai,38000
+26,	Enok,72000
+26,	Gaung Anak Serka,72000
+26,	Gaung,72000
+26,	Gunung Sahilan,48000
+26,	Gunung Toar,48000
+26,	Hulu Kuantan,48000
+26,	Inuman,48000
+26,	Kab.Meranti,38000
+26,	Kabun,48000
+26,	Kampar Kiri Hilir,48000
+26,	Kampar Kiri Hulu,48000
+26,	Kampar Kiri,48000
+26,	Kampar Timur,48000
+26,	Kampar Utara,48000
+26,	Kampar,48000
+26,	Kandis,48000
+26,	Kateman,72000
+26,	Kelayang,48000
+26,	Kemuning,72000
+26,	Kepenuhan,48000
+26,	Kerinci Kanan,48000
+26,	Keritang,72000
+26,	Kerumutan,48000
+26,	Koto Gasip,48000
+26,	Kuala Indragiri,72000
+26,	Kuala Kampar,48000
+26,	Kuantan Hilir,48000
+26,	Kuantan Mudik,48000
+26,	Kuantan Tengah,48000
+26,	Kubu,72000
+26,	Kuntodarussalam,72000
+26,	Langgam,72000
+26,	Lima Puluh,22000
+26,	Lirik,48000
+26,	Logas Tana Darat,48000
+26,	Lubuk Dalam,48000
+26,	Mandah,72000
+26,	Mandau,48000
+26,	Marpoyan Damai,22000
+26,	Medang Kampai,38000
+26,	Merbau,72000
+26,	Minas,38000
+26,	Pangean,48000
+26,	Pangkalan Kerinci,38000
+26,	Pangkalan Kuras,48000
+26,	Pangkalan Lesung,48000
+26,	Pasir Limau Kapas,72000
+26,	Pasir Pangaraian,38000
+26,	Pasir Penyu,48000
+26,	Payung,22000
+26,	Pekanbaru,22000
+26,	Pelalawan,48000
+26,	Pelangiran,72000
+26,	Peranap,48000
+26,	Perhentian Raja,48000
+26,	Pinggir,48000
+26,	Pujud,72000
+26,	Pulau Burung,48000
+26,	Rambah Hilir,48000
+26,	Rambah Samo,48000
+26,	Rambah,48000
+26,	Rangsang Barat,72000
+26,	Rangsang,72000
+26,	Rantau Kopar,72000
+26,	Rengat Barat,48000
+26,	Rengat,38000
+26,	Reteh,72000
+26,	Rimba Melintang,72000
+26,	Rokan IV Koto,48000
+26,	Rumbai Pesisir,22000
+26,	Rumbai,38000
+26,	Rumbio Jaya,48000
+26,	Rupat Utara,72000
+26,	Rupat,72000
+26,	Sail,22000
+26,	Salo,48000
+26,	Selat Panjang,48000
+26,	Senapelan,22000
+26,	Siak Hulu,48000
+26,	Siak Kecil,48000
+26,	Siak,48000
+26,	Siaksriindapura,38000
+26,	Siberida,48000
+26,	Simpang Kanan,72000
+26,	Sinaboi,72000
+26,	Singingi Hilir,48000
+26,	Singingi,48000
+26,	Sorek,48000
+26,	Sukajadi,22000
+26,	Sungai Apit,48000
+26,	Sungai Sembilan,38000
+26,	Tambang,48000
+26,	Tampan,22000
+26,	Tanah Merah,72000
+26,	Tanah Putih Tj. Melawan,48000
+26,	Tanah Putih,48000
+26,	Tandun,48000
+26,	Tapung Hilir,48000
+26,	Tapung Hulu,48000
+26,	Tapung,48000
+26,	Tebing Tinggi Barat,48000
+26,	Tebing Tinggi,48000
+26,	Teluk Balengkong,48000
+26,	Teluk Kuantan,38000
+26,	Teluk Meranti,48000
+26,	Tembilahan Hulu,48000
+26,	Tembilahan,38000
+26,	Tembusai Utara,48000
+26,	Tembusai,48000
+26,	Tempuling,72000
+26,	Tenayan Raya,22000
+26,	Tualang,48000
+26,	Ujungbatu,38000
+26,	Ukui,48000
+26,	Xiii Koto Kampar,72000
+27,	Allu,53000
+27,	Anreapi,53000
+27,	Aralle,53000
+27,	Balanipa,53000
+27,	Bambalamotu,53000
+27,	Banggae,53000
+27,	Baras,53000
+27,	Binuang,53000
+27,	Bonehau,53000
+27,	Campalagian,53000
+27,	Kalukku,53000
+27,	Kalumpang,53000
+27,	Karossa,53000
+27,	Limboro,53000
+27,	Luyo,53000
+27,	Majene,42000
+27,	Malunda,53000
+27,	Mamasa,42000
+27,	Mambi,53000
+27,	Mamuju,42000
+27,	Mapilli,53000
+27,	Matakali,53000
+27,	Matangnga,53000
+27,	Messawa,53000
+27,	Nosu,53000
+27,	Pamboang,53000
+27,	Pangale,53000
+27,	Papalang,53000
+27,	Pasangkayu,42000
+27,	Polewali,42000
+27,	Sampaga,53000
+27,	Sarudu,53000
+27,	Sendana,53000
+27,	Sesena Padang,53000
+27,	Simboro Dan Kepulauan,53000
+27,	Sumarorong,53000
+27,	Tabang,53000
+27,	Tabulahan,53000
+27,	Tanduk Kalua,53000
+27,	Tapalang Barat,53000
+27,	Tapango,53000
+27,	Tappalang,53000
+27,	Tinambung,53000
+27,	Tobadak,53000
+27,	Tommo,53000
+27,	Topoyo,53000
+27,	Tutallu,53000
+27,	Wonomulyo,53000
+28,	Ajangale,53000
+28,	Alla Timur,53000
+28,	Alla,53000
+28,	Amali,53000
+28,	Anggeraja Timur,53000
+28,	Anggeraja,53000
+28,	Angkona,53000
+28,	Arungkeke,53000
+28,	Awan Rante Karua,53000
+28,	Awangpone,53000
+28,	Baebunta,53000
+28,	Bajeng,53000
+28,	Bajo,53000
+28,	Balocci,53000
+28,	Balusu,53000
+28,	Bangkala Barat,53000
+28,	Bangkala,53000
+28,	Bangkelekila,53000
+28,	Bantaeng,42000
+28,	Bantimurung,53000
+28,	Barakka,53000
+28,	Baranti,53000
+28,	Barebbo,53000
+28,	Barombong,53000
+28,	Barru,42000
+28,	Baruppu,53000
+28,	Bassesangtempe,53000
+28,	Batang,53000
+28,	Batulappa,53000
+28,	Belawa,53000
+28,	Belopa,42000
+28,	Bengo,53000
+28,	Benteng,42000
+28,	Binamu,53000
+28,	Biring Kanaya,23000
+28,	Biringbulu,53000
+28,	Bissapu,53000
+28,	Bituang,53000
+28,	Bola,53000
+28,	Bonggakaradeng,53000
+28,	Bonto Nompo,53000
+28,	Bontoala,23000
+28,	Bontobahari,53000
+28,	Bontocani,53000
+28,	Bontoharu,53000
+28,	Bontomanai,53000
+28,	Bontomarannu,53000
+28,	Bontomatene,53000
+28,	Bontoramba,53000
+28,	Bontosikuyu,53000
+28,	Bontotiro,53000
+28,	Bua Ponrang(Bupon),53000
+28,	Bua,53000
+28,	Bulukumba,42000
+28,	Bulupoddo,53000
+28,	Bungaya,53000
+28,	Bungoro,53000
+28,	Buntao,53000
+28,	Buntu Pepasan,53000
+28,	Burau,53000
+28,	Camba,53000
+28,	Cempa,53000
+28,	Cenrana,53000
+28,	Cina,53000
+28,	Denpina / Dende Piongan Napo,53000
+28,	Dua Baccoe,53000
+28,	Dua Pitue,53000
+28,	Duampanua,53000
+28,	Enrekang Selatan,53000
+28,	Enrekang,42000
+28,	Eremerasa,53000
+28,	Galesong Selatan,53000
+28,	Galesong Utara,53000
+28,	Gandang Batu Silang,53000
+28,	Ganra,53000
+28,	Gantarang,53000
+28,	Gilireng,53000
+28,	Hero Lange Lange,53000
+28,	Jeneponto,42000
+28,	Kahu,53000
+28,	Kajang,53000
+28,	Kajuara,53000
+28,	Kalukuang Masalima,53000
+28,	Kamanre,53000
+28,	Kapala Pitu,53000
+28,	Keera,53000
+28,	Kelara,53000
+28,	Kesu,53000
+28,	Kindang,53000
+28,	Kulo,53000
+28,	Kurra,53000
+28,	Labakkang,53000
+28,	Lalabata,53000
+28,	Lamasi,53000
+28,	Lamuru,53000
+28,	Lanrisang,53000
+28,	Lappariaja,53000
+28,	Larompong,53000
+28,	Laronpong Selatan,53000
+28,	Latimojong,53000
+28,	Lau,53000
+28,	Lembang,53000
+28,	Libureng,53000
+28,	Lili Riaja,53000
+28,	Lili Rilau,53000
+28,	Limbong,53000
+28,	Liukang Tangaya,53000
+28,	Liukang Tupabiring,53000
+28,	Ma'rang,53000
+28,	Maiwa Atas,53000
+28,	Maiwa,53000
+28,	Majauleng,53000
+28,	Makale Selatan,53000
+28,	Makale Utara,53000
+28,	Makale,42000
+28,	Makasar,23000
+28,	Malangke Barat,53000
+28,	Malangke,53000
+28,	Malimbong Balepe,53000
+28,	Mallawa,53000
+28,	Mallusetasi,53000
+28,	Mamajang,23000
+28,	Mandai,53000
+28,	Mandalle,53000
+28,	Mangara Bombang,53000
+28,	Manggala,23000
+28,	Mangkutana,53000
+28,	Maniang Pajo,53000
+28,	Mappak,53000
+28,	Mappakasunggu,53000
+28,	Mappedeceng,53000
+28,	Mare,53000
+28,	Mario Riawa,53000
+28,	Mario Riwawo,53000
+28,	Mariso,23000
+28,	Maritengngae,53000
+28,	Maros Baru,53000
+28,	Maros Utara,53000
+28,	Maros,23000
+28,	Marusu,53000
+28,	Masamba,42000
+28,	Masanda,53000
+28,	Mattiro Bulu,53000
+28,	Mattiro Sompe,53000
+28,	Mengkendek,53000
+28,	Minasa Te'ne,53000
+28,	Moncongloe,53000
+28,	Nanggala,53000
+28,	Nuha,53000
+28,	Pajukukang,53000
+28,	Palakka,53000
+28,	Paleteang,53000
+28,	Pallangga,53000
+28,	Palopo,42000
+28,	Pammana,53000
+28,	Panakkukang,23000
+28,	Panca Lautang,53000
+28,	Panca Rijang,53000
+28,	Pangkajene,42000
+28,	Parangloe,53000
+28,	Pasilambena,53000
+28,	Pasimarannu,53000
+28,	Pasimasunggu,53000
+28,	Patallassang,53000
+28,	Patampanua,53000
+28,	Patimpeng,53000
+28,	Penrang,53000
+28,	Pinrang,42000
+28,	Pitu Riase,53000
+28,	Pitu Riawa,53000
+28,	Pitumpanua,53000
+28,	Polobangkeng Selatan,53000
+28,	Polobangkeng Utara,53000
+28,	Poncang,53000
+28,	Ponre,53000
+28,	Pujananting,53000
+28,	Pulau Sembilan,53000
+28,	Rampi,53000
+28,	Rano,53000
+28,	Rantebua,53000
+28,	Rantepao,42000
+28,	Rantetayo,53000
+28,	Rappocini,23000
+28,	Rembon,53000
+28,	Riau Ale,53000
+28,	Rindingallo,53000
+28,	Sa'dan,53000
+28,	Sabbang Paru,53000
+28,	Sabbang,53000
+28,	Sajoangin,53000
+28,	Salomekko,53000
+28,	Saluputti,53000
+28,	Sangalla,53000
+28,	Sanggalangi,53000
+28,	Segeri Mandalle,53000
+28,	Seko,53000
+28,	Sengkang,42000
+28,	Sesean,53000
+28,	Sibulue,53000
+28,	Sidenreng,42000
+28,	Sidrap,53000
+28,	Simbang,53000
+28,	Simbuang,53000
+28,	Sinjai Barat,53000
+28,	Sinjai Borong,53000
+28,	Sinjai Selatan,53000
+28,	Sinjai Tengah,53000
+28,	Sinjai Timur,53000
+28,	Sinjai Utara,53000
+28,	Sinjai,42000
+28,	Soloara,53000
+28,	Somba Opu,53000
+28,	Sopai,53000
+28,	Soppeng Riaja,53000
+28,	Soroako / Malili,42000
+28,	Sukamaju,53000
+28,	Suli,53000
+28,	Sungguminasa,23000
+28,	Suppa,53000
+28,	Takabonerate,53000
+28,	Takalar,42000
+28,	Takkalala,53000
+28,	Tallo,23000
+28,	Tallunglipu,53000
+28,	Tamalanrea,23000
+28,	Tana Sitolo,53000
+28,	Tanete Riaja,53000
+28,	Tanete Riattang Barat,53000
+28,	Tanete Riattang Timur,53000
+28,	Tanete Riattang,53000
+28,	Tanete Rilau,53000
+28,	Tanralili,53000
+28,	Tellu Limpoe,53000
+28,	Tellu Siatinge,53000
+28,	Tellulimpu E,53000
+28,	Telluwanua,42000
+28,	Tempe,53000
+28,	Tikala,53000
+28,	Tinggimoncong,53000
+28,	Tiroang,53000
+28,	Tombolo Pao,53000
+28,	Tomoni,53000
+28,	Tompabulu,53000
+28,	Tompo Bulu,53000
+28,	Tompu Bulu,53000
+28,	Tondon Nanggala,53000
+28,	Tondong Talasa,53000
+28,	Tonra,53000
+28,	Towuti,53000
+28,	Turatea,53000
+28,	Turikale,53000
+28,	Ujung Bulu,53000
+28,	Ujung Loe,53000
+28,	Ujung Tanah,23000
+28,	Ulaweng,53000
+28,	Uluere,53000
+28,	Wajo,23000
+28,	Walenrang,53000
+28,	Wara Selatan,42000
+28,	Wara Utara,42000
+28,	Wara,42000
+28,	Watampone,42000
+28,	Watang Pulu,53000
+28,	Watang Sawitto,53000
+28,	Watansoppeng,42000
+28,	Wotu,53000
+29,	Ampana Kota,53000
+29,	Ampana Tete,67000
+29,	Ampibabo,67000
+29,	Bahodopi,67000
+29,	Balaesang,67000
+29,	Balantak,67000
+29,	Banawa,32000
+29,	Banggai,53000
+29,	Basidondo,67000
+29,	Batui,67000
+29,	Biau,67000
+29,	Boalemo,67000
+29,	Bokan Kepulauan,67000
+29,	Bokat,67000
+29,	Bolano Lambunu,67000
+29,	Bukal,67000
+29,	Buko,67000
+29,	Bulagi Selatan,67000
+29,	Bulagi,67000
+29,	Bumi Raya,67000
+29,	Bungku Barat,67000
+29,	Bungku Selatan,67000
+29,	Bungku Tengah,67000
+29,	Bungku Utara,67000
+29,	Bungku,53000
+29,	Bunobogu,67000
+29,	Bunta,67000
+29,	Dampal Selatan,67000
+29,	Dampal Utara,67000
+29,	Damsol,67000
+29,	Dolo,67000
+29,	Dondo,67000
+29,	Gadung,67000
+29,	Galang,67000
+29,	Kasimbar,67000
+29,	Kintom,67000
+29,	Kulawi,67000
+29,	Lage,67000
+29,	Lamala,67000
+29,	Lampasio,67000
+29,	Lembo,67000
+29,	Liang,67000
+29,	Lipunoto,67000
+29,	Lo Bangkurung,67000
+29,	Lore Selatan,67000
+29,	Lore Tengah,67000
+29,	Lore Utara,67000
+29,	Luwuk,53000
+29,	Mamosalato,67000
+29,	Marawola,67000
+29,	Menui Kepulauan,67000
+29,	Momuna,67000
+29,	Mori Atas,67000
+29,	Moutong,67000
+29,	Ogo Deide,67000
+29,	Pagimana,67000
+29,	Paleleh,67000
+29,	Palolo,67000
+29,	Palu Barat,32000
+29,	Palu Selatan,32000
+29,	Palu Timur,32000
+29,	Palu Utara,32000
+29,	Palu,32000
+29,	Pamona Selatan,67000
+29,	Pamona Timur,67000
+29,	Pamona Utara,67000
+29,	Parigi,53000
+29,	Petasia,67000
+29,	Pipikoro,67000
+29,	Poso Pesisir,67000
+29,	Poso,53000
+29,	Riopakawa,67000
+29,	Sausu,67000
+29,	Sigi Biromaru,67000
+29,	Sindue,67000
+29,	Sirenja,67000
+29,	Sojol,67000
+29,	Soyo Jaya,67000
+29,	Tawaeli,67000
+29,	Tinakung,67000
+29,	Tinombo Selatan,67000
+29,	Tinombo,67000
+29,	Tiolan,67000
+29,	Togean,67000
+29,	Toili,67000
+29,	Tojo Barat,67000
+29,	Tojo,67000
+29,	Tolitoli,53000
+29,	Tomini,67000
+29,	Torue,67000
+29,	Totikum,67000
+29,	Ulu Bongka,67000
+29,	Utara Toli Toli,67000
+29,	Walea Kepulauan,67000
+29,	Wita Ponda,67000
+30,	Abeli,32000
+30,	Abuki,72000
+30,	Angata,72000
+30,	Asera,72000
+30,	Barangka,72000
+30,	Barat,32000
+30,	Baruga,32000
+30,	Batalaiworu,72000
+30,	Batauga,72000
+30,	Batu Atas,108000
+30,	Batuputih,108000
+30,	Baula,72000
+30,	Bondoala Sampara,72000
+30,	Bonegunu,72000
+30,	Buranga,72000
+30,	Duruka Bone,72000
+30,	Gu,108000
+30,	Kabaena Timur,72000
+30,	Kabaena,72000
+30,	Kabangka,72000
+30,	Kabawo,72000
+30,	Kadatua,108000
+30,	Kambowa,72000
+30,	Kapontori,72000
+30,	Katobu,72000
+30,	Kendar,32000
+30,	Kendari,32000
+30,	Kodeoha,72000
+30,	Kolaka,57000
+30,	Kolono,72000
+30,	Konda,72000
+30,	Kontunaga,72000
+30,	Kulisusu Barat,72000
+30,	Kulisusu Utara,72000
+30,	Kulisusu,72000
+30,	Kusambi,72000
+30,	Ladongi,72000
+30,	Lainea,72000
+30,	Lakudo,72000
+30,	Lambadia,72000
+30,	Lambuya,72000
+30,	Landono,72000
+30,	Laonti,72000
+30,	Lasalepa,72000
+30,	Lasalimu Selatan,108000
+30,	Lasalimu,108000
+30,	Lasolo,72000
+30,	Lasusua,57000
+30,	Latambaga,72000
+30,	Latoma,72000
+30,	Lawa,72000
+30,	Lohia,72000
+30,	Maginti,72000
+30,	Maligano,72000
+30,	Mandonga,32000
+30,	Mawasangka Timur,72000
+30,	Mawasangka,108000
+30,	Moramo,72000
+30,	Mowewe,72000
+30,	Napabalano,72000
+30,	Ngapa,72000
+30,	Pakue,72000
+30,	Palangga,72000
+30,	Parigi,72000
+30,	Pasar Wajo,57000
+30,	Pasir Putih,72000
+30,	Poasia,32000
+30,	Poleang Barat,72000
+30,	Poleang Timur,72000
+30,	Poleang,72000
+30,	Pomalaa,72000
+30,	Pondihaha,72000
+30,	Raha,57000
+30,	Ranomeeto,72000
+30,	Ranteangin,72000
+30,	Rarowatu,72000
+30,	Rumbia,57000
+30,	Samaturu,72000
+30,	Sampolawa,72000
+30,	Sawa,72000
+30,	Sawerigadi,72000
+30,	Siompu,72000
+30,	Soropia,72000
+30,	Talaga Raya,108000
+30,	Tanggetada,72000
+30,	Tikep,72000
+30,	Tinanggea,72000
+30,	Tirawuta,72000
+30,	Tiworo Tengah,72000
+30,	Tongauna,72000
+30,	Tongkuno,72000
+30,	Uepai,72000
+30,	Uluiwoi,108000
+30,	Unaaha,57000
+30,	Wakorumba Selatan,108000
+30,	Wakorumba,72000
+30,	Wanggodo / Andolo,57000
+30,	Wangi Wangi,57000
+30,	Watopute,72000
+30,	Watubangga,72000
+30,	Wawonii,108000
+30,	Waworete,72000
+30,	Wawotobi,72000
+30,	Wolo,72000
+30,	Wonggeduku,72000
+30,	Wundulako,72000
+31,	Airmadidi,75000
+31,	Amurang,75000
+31,	Belang,75000
+31,	Beo,75000
+31,	Biaro,75000
+31,	Bintauna,75000
+31,	Bitung Barat,60000
+31,	Bitung Selatan,60000
+31,	Bitung Tengah,60000
+31,	Bitung Timur,60000
+31,	Bitung Utara,60000
+31,	Bitung,60000
+31,	Bolaang Itang Barat,75000
+31,	Bolaang Itang Timur,75000
+31,	Bolaang Itang,75000
+31,	Bolaang Uki,75000
+31,	Bolaang,75000
+31,	Boroko,75000
+31,	Bunaken,37000
+31,	Dimembe,75000
+31,	Dumoga Barat,75000
+31,	Dumoga Timur,75000
+31,	Dumoga Utara,75000
+31,	Eris,75000
+31,	Essang,75000
+31,	Gemeh,75000
+31,	Kabaruan,75000
+31,	Kaidipang,75000
+31,	Kakas,75000
+31,	Kalawat,75000
+31,	Kauditan,75000
+31,	Kawangkoan,75000
+31,	Kema,75000
+31,	Kendahe,75000
+31,	Kombi,75000
+31,	Kotabunan,75000
+31,	Kotamobagu,60000
+31,	Langowan Barat,75000
+31,	Langowan Selatan,75000
+31,	Langowan Timur,75000
+31,	Lembean Timur,75000
+31,	Likupang Barat,75000
+31,	Likupang Timur,75000
+31,	Lirung,75000
+31,	Lolak,75000
+31,	Lolayan,75000
+31,	Malalayang,37000
+31,	Manado,37000
+31,	Manganitu Selatan,75000
+31,	Manganitu,75000
+31,	Mapanget,37000
+31,	Melonguane,75000
+31,	Modayag,75000
+31,	Modoinding,75000
+31,	Motoling,75000
+31,	Nanusa,75000
+31,	Nuangan,75000
+31,	Nusa Tabukan,75000
+31,	Passi,75000
+31,	Pineleng,75000
+31,	Pinogaluman,75000
+31,	Pinolosian,75000
+31,	Poigar,75000
+31,	Posigadan,75000
+31,	Pusomaen,75000
+31,	Rainis,75000
+31,	Ranoyapo,75000
+31,	Ratahan,60000
+31,	Ratatotok,75000
+31,	Remboken,75000
+31,	Sangkub,75000
+31,	Sangtombolang,75000
+31,	Sario,37000
+31,	Siau Barat Selatan,75000
+31,	Siau Barat,75000
+31,	Siau Timur Selatan,75000
+31,	Siau Timur,75000
+31,	Singkil,37000
+31,	Sinon Sayang,75000
+31,	Sonder,75000
+31,	Tabukan Selatan,75000
+31,	Tabukan Tengah,75000
+31,	Tabukan Utara,75000
+31,	Tagulandang Utara,75000
+31,	Tagulandang,75000
+31,	Tahuna,60000
+31,	Tamako,75000
+31,	Tareran,75000
+31,	Tatoareng,75000
+31,	Tenga,75000
+31,	Tikala,37000
+31,	Tombariri,75000
+31,	Tombasian,75000
+31,	Tombatu,75000
+31,	Tombulu,75000
+31,	Tomohon Barat,60000
+31,	Tomohon Selatan,60000
+31,	Tomohon Tengah,60000
+31,	Tomohon Timur,60000
+31,	Tomohon Utara,60000
+31,	Tomohon,60000
+31,	Tompaso,75000
+31,	Tompasobaru,75000
+31,	Tondano Barat,75000
+31,	Tondano Selatan,75000
+31,	Tondano Timur,75000
+31,	Tondano Utara,75000
+31,	Tondano,60000
+31,	Touluaan,75000
+31,	Tuminting,37000
+31,	Tumpaan,75000
+31,	Wanea,37000
+31,	Wenang,37000
+31,	Wori,75000
+32,	2 X 11 Kayu Tanam,47000
+32,	Akabiluru,47000
+32,	Ampek Nagari,47000
+32,	Arosuka,37000
+32,	Aur Birugo Tigo Baleh,37000
+32,	Banuhampu,47000
+32,	Barangin,37000
+32,	Basa IV Balai Tapan,47000
+32,	Baso,47000
+32,	Batang Anai,47000
+32,	Batang Gasan,47000
+32,	Batang Kapas,47000
+32,	Batipuh Selatan,47000
+32,	Batipuh,47000
+32,	Batusangkar,37000
+32,	Bayang Utara,47000
+32,	Bayang,47000
+32,	Bonjol,47000
+32,	Bukit Barisan,47000
+32,	Bukit Sundi,47000
+32,	Bukittinggi,37000
+32,	Bungus Teluk Kabung,22000
+32,	Candung,47000
+32,	Danau Kembar,47000
+32,	Guguk Panjang,37000
+32,	Guguk,47000
+32,	Gunung Talang,47000
+32,	Gunung Tuleh,47000
+32,	Harau,47000
+32,	Hiliran Gumanti,47000
+32,	Ii Koto,47000
+32,	Ii.X.XI.VI Lingkung,47000
+32,	Iii Nagari,47000
+32,	Iv Angkat Canduang,47000
+32,	Iv Jurai,47000
+32,	Iv Koto Aur Malintang,47000
+32,	Iv Koto,47000
+32,	Iv Nagari,47000
+32,	Ix Koto Sei Lasi,47000
+32,	Junjung Sirih,47000
+32,	Kamang Baru,47000
+32,	Kamang Magek,47000
+32,	Kapur IX,47000
+32,	Kinali,47000
+32,	Koto Parik Gadang Diateh,47000
+32,	Koto Tengah,22000
+32,	Koto Tujuh,47000
+32,	Koto XI Tarusan,47000
+32,	Kotobaru,47000
+32,	Kubung,47000
+32,	Kupitan,47000
+32,	Kuranji,22000
+32,	Lareh Sago Halaban,47000
+32,	Lembah Gumanti,47000
+32,	Lembah Melintang,47000
+32,	Lembah Segar,37000
+32,	Lembang Jaya,47000
+32,	Lengayang,47000
+32,	Lima Kaum,47000
+32,	Linggosari Baganti,47000
+32,	Lintau Bou Utara,47000
+32,	Lintau Buo,47000
+32,	Lubuk Alung,37000
+32,	Lubuk Basung,37000
+32,	Lubuk Begalung,22000
+32,	Lubuk Kilangan,22000
+32,	Lubuk Sikarah,37000
+32,	Lubuk Tarok,47000
+32,	Lubuksikaping,37000
+32,	Luhak,47000
+32,	Lunang Silaut,47000
+32,	Mandiangin Koto Selayan,37000
+32,	Mapat Tunggul Selatan,47000
+32,	Mapat Tunggul,47000
+32,	Matur,47000
+32,	Muara,37000
+32,	Mungka,47000
+32,	Nan Sabris,47000
+32,	Nanggalo,22000
+32,	Padang Aro,37000
+32,	Padang Barat,22000
+32,	Padang Ganting,47000
+32,	Padang Sago,47000
+32,	Padang Selatan,22000
+32,	Padang Timur,22000
+32,	Padang Utara,22000
+32,	Padang,22000
+32,	Padangpanjang,37000
+32,	Pagai Selatan,37000
+32,	Pagai Utara,37000
+32,	Painan,37000
+32,	Palembayan,47000
+32,	Palupuh,47000
+32,	Pancung Soal(Pasirbukit),47000
+32,	Pangkalan Kotabaru,47000
+32,	Pantai Cermin,47000
+32,	Panti,47000
+32,	Pariaman Selatan,37000
+32,	Pariaman Tengah,37000
+32,	Pariaman Utara,37000
+32,	Pariaman,37000
+32,	Pariangan,47000
+32,	Pasaman,47000
+32,	Patamuan,47000
+32,	Pauh,22000
+32,	Payung Sekaki,47000
+32,	Pd.Panjang Barat,37000
+32,	Pd.Panjang Timur,37000
+32,	Pualu Punjung,37000
+32,	Rambatan,47000
+32,	Ranah Balingka,47000
+32,	Ranah Batahan,47000
+32,	Ranah Pesisir,47000
+32,	Rao Mapat Tunggul,47000
+32,	Salimpaung,47000
+32,	Sangir Batanghari,47000
+32,	Sangir Jujuan,47000
+32,	Sangir,47000
+32,	Sarilamak,37000
+32,	Sawahlunto,37000
+32,	Sepuluh Koto,47000
+32,	Siberut Selatan,47000
+32,	Siberut Utara,47000
+32,	Silungkang,37000
+32,	Simpang Empat,37000
+32,	Sintuk Toboh Gadang,47000
+32,	Sipora,47000
+32,	Sitiung,47000
+32,	Situjuh Lima Nagari,47000
+32,	Solok,37000
+32,	Suliki Gunung Mas,47000
+32,	Sumpur Kudus,47000
+32,	Sungai Aur,47000
+32,	Sungai Beremas,47000
+32,	Sungai Geringging,47000
+32,	Sungai Limau,47000
+32,	Sungai Pagu,47000
+32,	Sungai Puar,47000
+32,	Sungai Rumbai,47000
+32,	Sungai Tarab,47000
+32,	Sungayang,47000
+32,	Sutera,47000
+32,	Talamau,47000
+32,	Talawi,37000
+32,	Tanjung Baru,47000
+32,	Tanjung Emas,47000
+32,	Tanjung Gadang,47000
+32,	Tanjung Harapan,37000
+32,	Tanjung Mutiara,47000
+32,	Tanjung Raya,47000
+32,	Tigo Lurah,47000
+32,	Tilatang Kamang,47000
+32,	Tuapejat,37000
+32,	Ulakan Tapakis,47000
+32,	V Koto Kampung Dalam,47000
+32,	V Koto Timur,47000
+32,	Vi Lingkung,47000
+32,	Vii Koto,47000
+32,	X Koto Diatas,47000
+32,	X Koto Singkarak(Kp. Teng,47000
+33,	Abab ( Penukal Abab ),38000
+33,	Air Sugihan,38000
+33,	Babat Toman,38000
+33,	Banding Agung,38000
+33,	Banyuasin I,38000
+33,	Banyuasin III,38000
+33,	Banyusin II,38000
+33,	Batang Harileko,38000
+33,	Baturaja Barat,38000
+33,	Baturaja Timur,38000
+33,	Baturaja,30000
+33,	Bayung Lincir,38000
+33,	Belitang II,38000
+33,	Belitang III,38000
+33,	Belitang,38000
+33,	Benakat,38000
+33,	Betung,38000
+33,	Bkl Ulu Terawas,38000
+33,	Bts Ulu,38000
+33,	Buay Madang,38000
+33,	Buay Pemaca,38000
+33,	Buay Pemuka Peliung,38000
+33,	Buay Runjung,38000
+33,	Buay Sandang Aji,38000
+33,	Bukit Kecil,18000
+33,	Cambai,30000
+33,	Cempaka,38000
+33,	Cengal,38000
+33,	Dempo Selatan,30000
+33,	Dempo Tengah,30000
+33,	Dempo Utara,30000
+33,	Gandus,18000
+33,	Gelumbang,38000
+33,	Gunungmegang,38000
+33,	Ilir Barat I,18000
+33,	Ilir Barat II,18000
+33,	Ilir Timur I,18000
+33,	Ilir Timur II,18000
+33,	Indralaya,30000
+33,	Jarai,38000
+33,	Jayaloka,38000
+33,	Jejawi,38000
+33,	Kalidoni,18000
+33,	Karang Dapo,38000
+33,	Karang Jaya,38000
+33,	Kayuagung,30000
+33,	Kelekar,38000
+33,	Keluang,38000
+33,	Kemuning,18000
+33,	Kertapati,18000
+33,	Kikim Barat,38000
+33,	Kikim Selatan,38000
+33,	Kikim Tengah,38000
+33,	Kikim Timur,38000
+33,	Kisam Tinggi,38000
+33,	Kota Agung,38000
+33,	Lahat,30000
+33,	Lais,38000
+33,	Lembak,38000
+33,	Lempuing,38000
+33,	Lengkiti,38000
+33,	Lintang Kanan,38000
+33,	Lubai,38000
+33,	Lubuk Batang,38000
+33,	Lubuk Linggau,30000
+33,	Lubuklinggau Barat I,30000
+33,	Lubuklinggau Barat II,30000
+33,	Lubuklinggau Selatan I,30000
+33,	Lubuklinggau Selatan II,30000
+33,	Lubuklinggau Timur I,30000
+33,	Lubuklinggau Timur II,30000
+33,	Lubuklinggau Utara I,30000
+33,	Lubuklinggau Utara II,30000
+33,	Madang Suku I,38000
+33,	Madang Suku II,38000
+33,	Makartijaya,38000
+33,	Marakuang,38000
+33,	Martapura,30000
+33,	Megang Sakti,38000
+33,	Mekakau Ilir,38000
+33,	Merapi,38000
+33,	Mesuji,38000
+33,	Muara Belikan,38000
+33,	Muara Kelingi,38000
+33,	Muara Lakitan,38000
+33,	Muara Padang,38000
+33,	Muara Pinang,38000
+33,	Muara Rupit,38000
+33,	Muaradua,30000
+33,	Muaraduakisam,38000
+33,	Muaraenim,30000
+33,	Muaratelang,38000
+33,	Mulak Ulu,38000
+33,	Nibung,38000
+33,	Pagar Alam Selatan,30000
+33,	Pagar Alam Utara,30000
+33,	Pagaralam,30000
+33,	Pajar Bulan,38000
+33,	Palembang,18000
+33,	Pampangan,38000
+33,	Pangkalanbalai,30000
+33,	Pasemah Air Keruh,38000
+33,	Pedamaran,38000
+33,	Pematang Panggang,38000
+33,	Pemulutan,38000
+33,	Pendopo Lintang,38000
+33,	Pengandonan,38000
+33,	Peninjauan,38000
+33,	Penukal Abab,38000
+33,	Penukal Utara,38000
+33,	Plaju,18000
+33,	Prabumulih Barat,30000
+33,	Prabumulih Timur,30000
+33,	Prabumulih,30000
+33,	Pulau Beringin,38000
+33,	Pulau Pinang,38000
+33,	Pulaurimau,38000
+33,	Purwodadi,38000
+33,	Rambang Kapak Tengah,30000
+33,	Rambutan,38000
+33,	Rantau Alai,38000
+33,	Rantaubayur,38000
+33,	Rawas Ilir,38000
+33,	Rawas Ulu,38000
+33,	Rembang Dangku,38000
+33,	Rembang,38000
+33,	Sako,18000
+33,	Sanga Desa,38000
+33,	Seberang Ulu I,18000
+33,	Seberang Ulu II,18000
+33,	Sekayu,30000
+33,	Selangit,38000
+33,	Sematang Borang,18000
+33,	Semendawai Suku III,38000
+33,	Semende Darat Laut,38000
+33,	Semende Darat Tengah,38000
+33,	Semende Darat Ulu,38000
+33,	Semidang Aji,38000
+33,	Simpang,38000
+33,	Sirah Pulau Padang,38000
+33,	Sosoh Buay Rayap,38000
+33,	Sukarame,18000
+33,	Sungai Keruh,38000
+33,	Sungai Lilin,30000
+33,	Sungai Rotan,38000
+33,	Talang Padang,38000
+33,	Talang Ubi,38000
+33,	Talangkelapa,38000
+33,	Tanah Abang,38000
+33,	Tanjung Batu,38000
+33,	Tanjung Raja,38000
+33,	Tanjungagung,38000
+33,	Tanjunglubuk,38000
+33,	Tebing Tinggi,30000
+33,	Tugumulyo,38000
+33,	Tulung Selapan,38000
+33,	Ujan Mas,38000
+33,	Ulu Musi,38000
+33,	Ulu Ogan,38000
+33,	Ulu Rawas,38000
+34,	Adiankoting,53000
+34,	Adman Dewi,53000
+34,	Aek Bilah,53000
+34,	Aek Kuasan,53000
+34,	Aek Kuo,53000
+34,	Aek Natas,53000
+34,	Afulu,53000
+34,	Air Joman,53000
+34,	Air Putih,53000
+34,	Airbatu,53000
+34,	Ajibata,53000
+34,	Alasa,80000
+34,	Amandraya,80000
+34,	Arse,53000
+34,	Babalan,42000
+34,	Badiri,53000
+34,	Baktiraja,53000
+34,	Balige,42000
+34,	Bandar Huluan,53000
+34,	Bandar Khalipah,53000
+34,	Bandar Masilam,53000
+34,	Bandar Pasir Mandoge,53000
+34,	Bandar,53000
+34,	Bandarpulau,53000
+34,	Bangun Purba,53000
+34,	Barumun Tengah,53000
+34,	Barumun,53000
+34,	Barus Jahe,53000
+34,	Barus,53000
+34,	Batahan,53000
+34,	Batang Angkola,53000
+34,	Batang Bulu Sutam,53000
+34,	Batang Kuis,53000
+34,	Batang Lubu Sutam,53000
+34,	Batang Natal,53000
+34,	Batang Onang,53000
+34,	Batang Serangan,53000
+34,	Batangtoru,53000
+34,	Bawolato,80000
+34,	Belawan,22000
+34,	Berampu,53000
+34,	Berastagi,53000
+34,	Beringin,53000
+34,	Besitang,53000
+34,	Bilah Barat,53000
+34,	Bilah Hilir,53000
+34,	Bilah Hulu,53000
+34,	Binjai Barat,42000
+34,	Binjai Selatan,42000
+34,	Binjai Timur,42000
+34,	Binjai Utara,42000
+34,	Binjai,42000
+34,	Bohorok,53000
+34,	Bor Bor,53000
+34,	Bosarmaligas,53000
+34,	Brandan Barat,53000
+34,	Bukit Malintang,53000
+34,	Buntu Panei,53000
+34,	Datuk Bandar,42000
+34,	Deli Tua,53000
+34,	Dolok Batunanggar,53000
+34,	Dolok Masihul,53000
+34,	Dolok Merawan,53000
+34,	Dolok Panribuan,53000
+34,	Dolok Pardamean,53000
+34,	Dolok Sigompulon,53000
+34,	Dolok Silau,53000
+34,	Dolok,53000
+34,	Doloksanggul,42000
+34,	Galang,53000
+34,	Garoga,53000
+34,	Gebang,53000
+34,	Gido,80000
+34,	Girsang Sipanganbolon,53000
+34,	Gn. Meriah,53000
+34,	Gomo,80000
+34,	Gunung Malela,53000
+34,	Gunung Maligas,53000
+34,	Gunung Sitember,53000
+34,	Gunung Tua,42000
+34,	Gunungsitoli,42000
+34,	Habinsaran,53000
+34,	Halongonan,53000
+34,	Hamparan Perak,53000
+34,	Haranggaol Horisanz,53000
+34,	Harian,53000
+34,	Hatonduhan,53000
+34,	Hibala,80000
+34,	Hiliduho,80000
+34,	Hinai,53000
+34,	Huristak,53000
+34,	Huta Raja Tinggi,53000
+34,	Hutabayuraja,53000
+34,	Idano Gawo,80000
+34,	Jawa Maraja Bah Jambi,53000
+34,	Jorlang Hataran,53000
+34,	Juhar,53000
+34,	Kabanjahe,42000
+34,	Kampung Rakyat,53000
+34,	Kerajaan,53000
+34,	Kisaran Barat,53000
+34,	Kisaran Timur,53000
+34,	Kisaran,42000
+34,	Kolang,53000
+34,	Kotanopan,53000
+34,	Kotapinang,53000
+34,	Kotarih,53000
+34,	Kuala,53000
+34,	Kualuh Hilir,53000
+34,	Kualuh Hulu,53000
+34,	Kualuh Leidong,53000
+34,	Kualuh Selatan,53000
+34,	Kutabuluh,53000
+34,	Kutalimbaru,53000
+34,	Labuhan Deli,53000
+34,	Lae Parira,53000
+34,	Laguboti,53000
+34,	Lahewa,80000
+34,	Lahusa,80000
+34,	Lau Baleng,53000
+34,	Lembah Sorik Merapi,53000
+34,	Limapuluh,42000
+34,	Lingga Bayu,53000
+34,	Lintongnihuta,53000
+34,	Lolomatua,80000
+34,	Lolotifu Moi,80000
+34,	Lolowau,80000
+34,	Lotu,80000
+34,	Lubuk Barumun,53000
+34,	Lubuk Pakam,42000
+34,	Lumbanjulu,53000
+34,	Lumut,53000
+34,	Mandrehe,80000
+34,	Manduamas,53000
+34,	Marancar,53000
+34,	Mardinding,53000
+34,	Medan Amplas,22000
+34,	Medan Area,22000
+34,	Medan Barat,22000
+34,	Medan Baru,22000
+34,	Medan Deli,22000
+34,	Medan Denai,22000
+34,	Medan Helvetia,22000
+34,	Medan Johor,22000
+34,	Medan Kota,22000
+34,	Medan Labuhan,22000
+34,	Medan Maimun,22000
+34,	Medan Marelan,22000
+34,	Medan Perjuangan,22000
+34,	Medan Petisah,22000
+34,	Medan Polonia,22000
+34,	Medan Selayang,22000
+34,	Medan Sunggal,22000
+34,	Medan Tembung,22000
+34,	Medan Timur,22000
+34,	Medan Tuntungan,22000
+34,	Medan,22000
+34,	Medang Deras,53000
+34,	Meranti,53000
+34,	Merbau,53000
+34,	Merek,53000
+34,	Muara Batang Gadis,53000
+34,	Muara,53000
+34,	Muarasipongi,53000
+34,	Munte,53000
+34,	Nainggolan,53000
+34,	Namo Rambe,53000
+34,	Nassau,53000
+34,	Natal,53000
+34,	Onan Ganjang,53000
+34,	Onan Runggu,53000
+34,	Padang Bolak Julu,53000
+34,	Padang Bolak,53000
+34,	Padang Hilir,53000
+34,	Padang Hulu,53000
+34,	Padang Sidempuan Batu Nadua,42000
+34,	Padang Sidempuan Hutaimbaru,42000
+34,	Padang Sidempuan Selatan,42000
+34,	Padang Sidempuan Tenggara,42000
+34,	Padang Sidempuan Utara,42000
+34,	Padangbolak,53000
+34,	Padangsidempuan Barat,53000
+34,	Padangsidempuan Timur,53000
+34,	Padangsidempuan,42000
+34,	Padangtualang,53000
+34,	Pagar Marbau,53000
+34,	Pagaran,53000
+34,	Pagindar,53000
+34,	Pahae Jae,53000
+34,	Pahae Julu,53000
+34,	Pakkat,53000
+34,	Palipi,53000
+34,	Panai Hilir,80000
+34,	Panai Hulu,80000
+34,	Panai Tengah,80000
+34,	Pancur Batu,53000
+34,	Panei,53000
+34,	Pangaribuan,53000
+34,	Pangkalansusu,53000
+34,	Pangkatan,53000
+34,	Pangururan,42000
+34,	Panombeian Pane,53000
+34,	Pantai Cermin,53000
+34,	Pantai Labu,53000
+34,	Panyabungan Barat,53000
+34,	Panyabungan Kota,53000
+34,	Panyabungan Selatan,53000
+34,	Panyabungan Timur,53000
+34,	Panyabungan Utara,53000
+34,	Panyambungan,42000
+34,	Paranginan,53000
+34,	Parbuluan,53000
+34,	Parlilitan,53000
+34,	Parmonangan,53000
+34,	Payung,53000
+34,	Pegangan Hilir,53000
+34,	Pematang Bandar,53000
+34,	Pematang Raya,42000
+34,	Pematang Sidamanik,53000
+34,	Pematangsiantar,42000
+34,	Perbaungan,53000
+34,	Percut Sei Tuan,53000
+34,	Pergetteng Sengkut,53000
+34,	Petumbak,53000
+34,	Pintu Pohan Meranti,53000
+34,	Pollung,53000
+34,	Poribi,53000
+34,	Porsea,53000
+34,	Portibi,53000
+34,	Pulaurakyat,53000
+34,	Purba,53000
+34,	Purbatua,53000
+34,	Rambutan,53000
+34,	Rantau Selatan,53000
+34,	Rantau Utara,53000
+34,	Rantauprapat,42000
+34,	Raya Kahean,53000
+34,	Raya,53000
+34,	Ronggur Nihuta,53000
+34,	S. Tualang Raso,42000
+34,	Saipar Dolok Hole,53000
+34,	Salak,42000
+34,	Salapian,53000
+34,	Sawit Seberang,53000
+34,	Sayur Matinggi,53000
+34,	Secanggang,53000
+34,	Sei Balai,53000
+34,	Sei Bingai,53000
+34,	Sei Kepayang,53000
+34,	Sei Lepan,53000
+34,	Sei Rampah,42000
+34,	Sei Suka,53000
+34,	Selesai,53000
+34,	Siabu,53000
+34,	Siais,53000
+34,	Siantar Barat,42000
+34,	Siantar Marihat,42000
+34,	Siantar Martoba,42000
+34,	Siantar Narumonda,53000
+34,	Siantar Selatan,42000
+34,	Siantar Timur,42000
+34,	Siantar Utara,42000
+34,	Siantar,53000
+34,	Siatas Barita,53000
+34,	Sibabangun,53000
+34,	Sibolangit,53000
+34,	Sibolga Sambas,42000
+34,	Sibolga Selatan,42000
+34,	Sibolga Utara,42000
+34,	Sibolga,42000
+34,	Siborongborong,42000
+34,	Sibuhuan,42000
+34,	Sidamanik,53000
+34,	Sidikalang,42000
+34,	Siempat Nempu Hilir,53000
+34,	Siempat Nempu Hulu,53000
+34,	Siempat Nempu,53000
+34,	Siempat Rube,53000
+34,	Sigumpar,53000
+34,	Sijama Polang,53000
+34,	Silaen,53000
+34,	Silangkitang,53000
+34,	Silau Kahean,53000
+34,	Silima Pungga,53000
+34,	Silimakuta,53000
+34,	Simangambat,53000
+34,	Simangumban,53000
+34,	Simanindo,53000
+34,	Simpangempat,53000
+34,	Sinembah Tj. Muda Hilir,53000
+34,	Sinembah Tj. Muda Hulu,53000
+34,	Sipahutar,53000
+34,	Sipirok,42000
+34,	Sipispis,53000
+34,	Sipoholon,53000
+34,	Sirandorung,53000
+34,	Sirombu,80000
+34,	Sitahuis,53000
+34,	Sitellu Tai Urang Jehe,53000
+34,	Sitellu Tai Urang Julu,53000
+34,	Sitiotio,53000
+34,	Sorkam Barat,53000
+34,	Sorkam,53000
+34,	Sosa,53000
+34,	Sosopan,53000
+34,	Sosor Gadong,53000
+34,	Stabat,42000
+34,	Sumbul,53000
+34,	Sungai Kanan,53000
+34,	Sunggal,53000
+34,	Talawi,53000
+34,	Tambangan,53000
+34,	Tampahan,53000
+34,	Tanah Pinem,53000
+34,	Tanahjawa,53000
+34,	Tanjung Balai Asahan,42000
+34,	Tanjung Balai,42000
+34,	Tanjung Beringin,53000
+34,	Tanjung Morawa,42000
+34,	Tanjung Tiram,53000
+34,	Tanjungpura,53000
+34,	Tapian Dolok,53000
+34,	Tapian Nauli,53000
+34,	Tarabintang,53000
+34,	Tarutung,42000
+34,	Teluk Dalam,42000
+34,	Teluk Mengkudu,53000
+34,	Teluk Nibung,42000
+34,	Tg Balai Selatan,42000
+34,	Tg Balai Utara,42000
+34,	Tigabinanga,53000
+34,	Tigalingga,53000
+34,	Tigapanah,53000
+34,	Tinada,53000
+34,	Torgamba,53000
+34,	Tuhemberua,80000
+34,	Tukka,53000
+34,	Ujungpadang,53000
+34,	Ulu Barumun,53000
+34,	Ulu Pungkut,53000
+34,	Uluan,53000
+34,	Wampu,53000
